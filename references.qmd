@@ -1,0 +1,8 @@
+# Referenties {.unnumbered}
+
+::: {#refs}
+:::
+
+## Geraadpleegde bronnen
+
+Zie [Bijlage B](appendices/bijlage-b-literatuur.qmd) voor een volledig overzicht van geraadpleegde literatuur en benchmarks.

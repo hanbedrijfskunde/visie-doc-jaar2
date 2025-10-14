@@ -1,0 +1,235 @@
+# C-cluster: Transitie van Uitvoeren naar Ontwerpen
+
+## Ontwikkelingslogica per leeruitkomst
+
+### LUK1: Analyseren en diagnosticeren
+
+#### Van en Naar
+
+**Vraag uit outline:** Van en Naar
+
+- **Van:** Gestructureerde diagnose met gegeven model (propedeuse)
+- **Naar:** Zelfstandig signaleren van knelpunten met zelf te selecteren theorieën (AD-niveau)
+
+**Status:** ⏸️ Gedeeltelijk beantwoord
+
+#### Kernvraag: Hoe ontwikkelt de student van 'toepassen' naar 'selecteren'?
+
+**Vraag uit outline:** Hoe ontwikkelt de student van 'toepassen' naar 'selecteren'?
+
+**Status:** ⏳ Nog open
+
+#### Concrete ontwikkeling
+
+**Vraag uit outline:** Concrete ontwikkeling
+
+**Stakeholder-bewustzijn: van vooral intern naar intern én extern**
+
+[Uitwerking volgt]
+
+**Theoretische onderbouwing: van aangereikte modellen naar zelf selecteren relevante theorieën**
+
+[Uitwerking volgt]
+
+**Complexiteit: van eenvoudige naar eenvoudige bedrijfskundige vraagstukken met meer variabelen**
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### LUK2: (Her)ontwerpen
+
+#### Van en Naar
+
+**Vraag uit outline:** Van en Naar
+
+- **Van:** Verbetervoorstel voor eenvoudig proces (propedeuse)
+- **Naar:** Strategisch passend ontwerp op tactisch/operationeel niveau (AD-niveau)
+
+**Status:** ⏸️ Gedeeltelijk beantwoord
+
+#### Kernvraag: Hoe leert de student de verbinding tussen operatie en strategie te maken?
+
+**Vraag uit outline:** Hoe leert de student de verbinding tussen operatie en strategie te maken?
+
+**Status:** ⏳ Nog open
+
+#### Concrete ontwikkeling
+
+**Vraag uit outline:** Concrete ontwikkeling
+
+**Systeem-bewustzijn: van bewust van impact naar bewust van invloed op andere organisatieonderdelen**
+
+[Uitwerking volgt]
+
+**Waardencreatie: van enkele waarde naar meervoudige waarden**
+
+[Uitwerking volgt]
+
+**Procesmining en digitale tools als nieuwe competentie**
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### LUK3: Begeleiden
+
+#### Van en Naar
+
+**Vraag uit outline:** Van en Naar
+
+- **Van:** Ondersteunen bij verbeterprocessen (propedeuse)
+- **Naar:** (Bege)leiden in teamverband (AD-niveau)
+
+**Status:** ⏸️ Gedeeltelijk beantwoord
+
+#### Kernvraag: Hoe ontwikkelt de student van meedenken naar meesturen?
+
+**Vraag uit outline:** Hoe ontwikkelt de student van meedenken naar meesturen?
+
+**Status:** ⏳ Nog open
+
+#### Concrete ontwikkeling
+
+**Vraag uit outline:** Concrete ontwikkeling
+
+**Rol: van ondersteuner naar (bege)leider in team**
+
+[Uitwerking volgt]
+
+**Stakeholder-management: van betrekken naar verbinden van binnen en buiten de afdeling**
+
+[Uitwerking volgt]
+
+**Waardenspanning: van bekend met meervoudige waarden naar respecteren van verschillende belangen**
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### LUK4: Evalueren
+
+#### Van en Naar
+
+**Vraag uit outline:** Van en Naar
+
+- **Van:** Kijken hoe het gaat (propedeuse)
+- **Naar:** Methodisch monitoren met consequentiebewustzijn (AD-niveau)
+
+**Status:** ⏸️ Gedeeltelijk beantwoord
+
+#### Kernvraag: Hoe leert de student van controleren naar evalueren?
+
+**Vraag uit outline:** Hoe leert de student van controleren naar evalueren?
+
+**Status:** ⏳ Nog open
+
+#### Concrete ontwikkeling
+
+**Vraag uit outline:** Concrete ontwikkeling
+
+**Van ad-hoc kijken naar methodisch monitoren**
+
+[Uitwerking volgt]
+
+**Van checken naar bewustzijn van gevolgen**
+
+[Uitwerking volgt]
+
+**Van evalueren naar vertalen van resultaten in concrete acties**
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### LUK5: Professionaliseren
+
+#### Van en Naar
+
+**Vraag uit outline:** Van en Naar
+
+- **Van:** Beeld vormen van eigen persoonlijkheid (propedeuse)
+- **Naar:** Bewust zijn van rollen en invloed in beroepspraktijk (AD-niveau)
+
+**Status:** ⏸️ Gedeeltelijk beantwoord
+
+#### Kernvraag: Wat betekent beginnende professionele identiteit?
+
+**Vraag uit outline:** Wat betekent beginnende professionele identiteit?
+
+**Status:** ⏳ Nog open
+
+#### Concrete ontwikkeling
+
+**Vraag uit outline:** Concrete ontwikkeling
+
+**Van bewustzijn van persoonlijkheid naar vormgeven van invloed daarvan**
+
+[Uitwerking volgt]
+
+**Van feedback ontvangen naar actief ophalen en integreren**
+
+[Uitwerking volgt]
+
+**Bewustzijn van bedrijfskundige rollen: adviseur, manager, onderzoeker**
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+## Integratievermogen als kerncompetentie
+
+### Wat vraagt het integreren van de vijf LUKs in de praktijk?
+
+**Vraag uit outline:** Wat vraagt het integreren van de vijf LUKs in de praktijk?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Hoe leren studenten de vier vakgebieden te verbinden?
+
+**Vraag uit outline:** Hoe leren studenten de vier vakgebieden te verbinden?
+
+- Strategie
+- Operations
+- Informatiemanagement
+- Organisatiegedrag
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Van 'kennis over' naar 'kunnen integreren'
+
+**Vraag uit outline:** Van 'kennis over' naar 'kunnen integreren'
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+## Professionele identiteitsontwikkeling
+
+### Wat is beginnende bedrijfskundige identiteit?
+
+**Vraag uit outline:** Wat is beginnende bedrijfskundige identiteit?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Bewustzijn van rollen: wanneer ben je adviseur, manager of onderzoeker?
+
+**Vraag uit outline:** Bewustzijn van rollen: wanneer ben je adviseur, manager of onderzoeker?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Het moreel kompas in ontwikkeling: van kennen naar toepassen
+
+**Vraag uit outline:** Het moreel kompas in ontwikkeling: van kennen naar toepassen
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open

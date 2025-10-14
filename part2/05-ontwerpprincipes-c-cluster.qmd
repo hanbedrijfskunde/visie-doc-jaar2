@@ -1,0 +1,219 @@
+# Ontwerpprincipes voor het C-cluster
+
+## Leeromgeving voor ontwikkeling
+
+### Principe 1: Oplopende complexiteit en scaffolding
+
+#### Veilige ruimte voor productieve worsteling
+
+[Uitwerking volgt]
+
+#### Wanneer structuur bieden, wanneer loslaten?
+
+[Uitwerking volgt]
+
+#### Geleidelijke opbouw
+
+Van gestructureerde opdrachten naar open vraagstukken
+
+[Uitwerking volgt]
+
+### Principe 2: Van aanreiken naar selecteren
+
+#### De transitie naar zelfstandig theorieën selecteren
+
+Van 'gegeven theoretisch model' naar 'zelf selecteren relevante theorieën'
+
+[Uitwerking volgt]
+
+#### Scaffolding-strategie
+
+Welke ondersteuning in welke fase?
+
+[Uitwerking volgt]
+
+#### Leren onderbouwen van theoretische keuzes
+
+[Uitwerking volgt]
+
+### Principe 3: Integratie boven isolatie
+
+#### Voorkomen van 'vakjes afvinken'
+
+[Uitwerking volgt]
+
+#### Rol van overkoepelende opdrachten
+
+Versus afzonderlijke vakken
+
+[Uitwerking volgt]
+
+#### Didactische werkvormen die integratie faciliteren
+
+[Uitwerking volgt]
+
+## Integratie van vakgebieden
+
+### De vier domeinen verbinden
+
+#### Strategie ↔ Operations
+
+[Uitwerking volgt]
+
+#### Informatiemanagement ↔ Organisatiegedrag
+
+[Uitwerking volgt]
+
+### Praktijkcases als integratievehikel
+
+[Uitwerking volgt]
+
+### Rol van interdisciplinaire teams
+
+[Uitwerking volgt]
+
+## Actualisering en relevantie
+
+### Hedendaagse ontwikkelingen
+
+#### AI en data-analyse in bedrijfskundige processen
+
+[Uitwerking volgt]
+
+#### Procesmining
+
+Expliciet genoemd in LUK2
+
+[Uitwerking volgt]
+
+#### Duurzaamheid en meervoudige waardecreatie
+
+[Uitwerking volgt]
+
+#### Geopolitieke ontwikkelingen en organisaties
+
+[Uitwerking volgt]
+
+### Balans tussen basis en actualiteit
+
+#### Tijdloze bedrijfskundige competenties versus actuele tools
+
+[Uitwerking volgt]
+
+#### Digitale vaardigheden als kerncompetentie
+
+Welke vaardigheden op dit niveau?
+
+[Uitwerking volgt]
+
+## Didactiek passend bij de transitie
+
+### Werkvormen die zelfstandigheid stimuleren
+
+#### Van directe instructie naar coaching en facilitering
+
+**Vraag uit outline:** Van directe instructie naar coaching en facilitering
+
+Het C-cluster markeert een verschuiving in hoe studenten zich verhouden tot onderzoek en kennis. Healey [-@healey_linking_2005] onderscheidt vier manieren waarop onderwijs en onderzoek met elkaar verbonden kunnen worden (zie @fig-healey-nexus).
+
+![Healey's research-teaching nexus model [@healey_linking_2005]](../images/research-teaching.png){#fig-healey-nexus}
+
+**Verschuiving in onderzoeksleerlijn tussen A/B-cluster en C/D-cluster:**
+
+| Propedeuse (A/B-cluster) | C/D-cluster |
+|--------------------------|-------------|
+| **Research-led**: Docenten onderwijzen vakgebied, studenten leren over onderzoeksresultaten | **Research-oriented**: Studenten leren onderzoeksprocessen en kennisconstructie |
+| **Research-tutored**: Studenten bespreken en schrijven over onderzoek van anderen | **Research-based**: Studenten voeren zelf inquiry-based learning uit |
+
+Deze verschuiving betekent dat studenten:
+
+1. **Actief participeren** in plaats van consumeren van kennis
+2. Leren **hoe** kennis tot stand komt, niet alleen **wat** de kennis is
+3. **Onderzoekend denken** toepassen op bedrijfskundige vraagstukken
+4. **Methodisch werken** met data en evidence
+
+**Didactische consequenties:**
+
+- Werkvormen die onderzoekend leren stimuleren (vraaggestuurd onderwijs)
+- Opdrachten waarbij studenten zelf keuzes maken in theorieën en methoden
+- Reflectie op onderzoeksprocessen, niet alleen op uitkomsten
+- Docenten als begeleiders van onderzoeksprocessen, niet alleen als kennisoverdrachters
+
+**Status:** ✅ Beantwoord met Healey (2005) framework
+**Nog uit te werken:** Concrete voorbeelden van werkvormen en didactische scenario's
+
+#### Rol van de docent: wanneer expert, wanneer coach?
+
+**Vraag uit outline:** Rol van de docent: wanneer expert, wanneer coach?
+
+De verschuiving naar research-oriented en research-based onderwijs vraagt een andere docentrol:
+
+**Docent als expert** (minder dominant in C-cluster):
+- Bij kennisoverdracht van basis-theorieën
+- Bij uitleg van onderzoeksmethoden
+- Bij beoordeling van kwaliteit
+
+**Docent als coach/facilitator** (dominant in C-cluster):
+- Bij begeleiden van onderzoeksprocessen
+- Bij ondersteunen van theoriekeuzes (niet voorschrijven)
+- Bij stimuleren van kritisch denken
+- Bij faciliteren van peer learning
+
+Dit sluit aan bij het Healey-framework: studenten als participanten in onderzoek, niet als audience.
+
+**Status:** ⏸️ Gedeeltelijk beantwoord
+**Nog uit te werken:** Wanneer precies welke rol? Concrete situaties en voorbeelden per LUK
+
+#### Teamleren én individuele ontwikkeling
+
+[Uitwerking volgt]
+
+### Authentieke praktijk in het C-cluster
+
+#### Rol van de buitenwereld
+
+[Uitwerking volgt]
+
+#### Gastdocenten, bedrijfscases, fieldtrips
+
+[Uitwerking volgt]
+
+#### Voorbereiding op D-cluster (stage)
+
+[Uitwerking volgt]
+
+## Assessment van ontwikkeling
+
+### Groei meten, niet alleen eindniveau
+
+#### Ontwikkeling van propedeuse naar AD zichtbaar maken
+
+[Uitwerking volgt]
+
+#### Portfolio, reflectie, feedforward
+
+[Uitwerking volgt]
+
+### Balans product en proces
+
+#### Kwaliteit van het ontwerp (product)
+
+[Uitwerking volgt]
+
+#### Ontwikkeling van competenties (proces)
+
+[Uitwerking volgt]
+
+#### Betrouwbaar beoordelen op 'tussen-niveau'
+
+[Uitwerking volgt]
+
+### Formatief én summatief
+
+#### Feedbackloops tijdens het leerproces
+
+[Uitwerking volgt]
+
+#### Eindassessment dat recht doet aan groei
+
+[Uitwerking volgt]

@@ -1,0 +1,55 @@
+# Conclusie
+
+## De kernboodschap samengevat
+
+### WHY: De unieke bijdrage van C- en D-clusters
+
+**Vraag uit outline:** WHY: De unieke bijdrage van C- en D-clusters
+
+[Samenvatting volgt]
+
+**Status:** ⏳ Nog open
+
+### HOW: De ontwerpprincipes in een notendop
+
+**Vraag uit outline:** HOW: De ontwerpprincipes in een notendop
+
+[Samenvatting volgt]
+
+**Status:** ⏳ Nog open
+
+## Wat maakt dit onderscheidend?
+
+### Wat is nieuw of anders ten opzichte van de huidige situatie?
+
+**Vraag uit outline:** Wat is nieuw of anders ten opzichte van de huidige situatie?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Wat zijn de belangrijkste design choices?
+
+**Vraag uit outline:** Wat zijn de belangrijkste design choices?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+## De winst voor studenten
+
+### Wat levert dit op voor hun ontwikkeling?
+
+**Vraag uit outline:** Wat levert dit op voor hun ontwikkeling?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Hoe versterkt dit hun bedrijfskundige professionaliteit?
+
+**Vraag uit outline:** Hoe versterkt dit hun bedrijfskundige professionaliteit?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open

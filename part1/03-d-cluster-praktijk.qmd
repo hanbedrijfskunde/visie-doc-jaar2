@@ -1,0 +1,172 @@
+# D-cluster: Toepassing in Authentieke Praktijk
+
+## Van beschermde leeromgeving naar bedrijfspraktijk
+
+### Welke competenties uit C-cluster worden het meest op de proef gesteld?
+
+**Vraag uit outline:** Welke competenties uit C-cluster worden het meest op de proef gesteld?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Wat is het verschil tussen 'oefenen in onderwijs' en 'toepassen in praktijk'?
+
+**Vraag uit outline:** Wat is het verschil tussen 'oefenen in onderwijs' en 'toepassen in praktijk'?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Wat kan een student op dit niveau (nog) niet?
+
+**Vraag uit outline:** Wat kan een student op dit niveau (nog) niet? (Realistische verwachtingen)
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+## De onderzoekende bedrijfskundige
+
+### Wat betekent onderzoekend in de praktijk staan op dit niveau?
+
+**Vraag uit outline:** Wat betekent onderzoekend in de praktijk staan op dit niveau?
+
+In het D-cluster verschuift de onderzoeksleerlijn van **research-tutored** (A/B-cluster) naar **research-based** [@healey_linking_2005]. Dit betekent dat studenten niet langer primair papers of essays bespreken over onderzoek van anderen, maar zelf inquiry-based leren toepassen in authentieke praktijksituaties.
+
+**Kenmerken van research-based leren in het D-cluster:**
+
+- **Studenten als participanten**: Actieve rol in het onderzoeksproces
+- **Nadruk op onderzoeksprocessen en -problemen**: Het leren onderzoeken staat centraal
+- **Student-focused**: Eigen vraagstelling en onderzoeksaanpak
+
+De student leert onderzoekend te opereren door:
+
+1. **Signaleren**: Knelpunten en kansen identificeren in de organisatie
+2. **Onderzoeken**: Systematisch informatie verzamelen en analyseren
+3. **Ontwerpen**: Evidence-based oplossingen ontwikkelen
+4. **Evalueren**: Kritisch reflecteren op proces en resultaat
+
+**Status:** ✅ Beantwoord met Healey (2005) framework
+**Nog uit te werken:** Concrete voorbeelden van onderzoeksactiviteiten in stagepraktijk
+
+### De balans tussen 'meedoen' en 'onderzoeken'
+
+**Vraag uit outline:** De balans tussen 'meedoen' en 'onderzoeken'
+
+De stage combineert drie rollen die de bedrijfskundige professional kenmerken:
+
+**Balans tussen rollen:**
+
+- **60-70% Meedoen**: Operationeel bijdragen aan dagelijkse werkzaamheden
+- **20-30% Onderzoeken**: Systematisch praktijkonderzoek uitvoeren
+- **10-20% Adviseren**: Bevindingen en aanbevelingen communiceren
+
+Deze verhouding weerspiegelt het 'tussen-niveau': meer onderzoekend dan in propedeuse (waar vooral uitvoeren centraal staat), maar nog niet de onderzoeksdiepgang van AD-afstuderen (waar onderzoek dominant is).
+
+**Integratie van rollen:**
+
+Het onderzoek staat niet los van het werk, maar is geïntegreerd in de stageopdracht. De student onderzoekt vanuit de praktijk, niet erover. Dit sluit aan bij de bedrijfskundige handelingscyclus waarbij onderzoekend handelen essentieel is voor:
+
+- Gedegen analyse (LUK1)
+- Evidence-based ontwerp (LUK2)
+- Datagedreven evaluatie (LUK4)
+
+**Wat is passend praktijkonderzoek op dit niveau?**
+
+Het onderzoeksniveau ligt tussen **research-tutored** (propedeuse) en volledig **research-based** (AD-afstuderen):
+
+| Aspect | C/D-cluster niveau |
+|--------|-------------------|
+| **Vraagstelling** | Meegegeven of samen met begeleider geformuleerd |
+| **Onderzoeksopzet** | Beproefde methoden toepassen (niet zelf ontwerpen) |
+| **Data-verzameling** | Zelfstandig met begeleiding |
+| **Analyse** | Toepassen van geleerde technieken |
+| **Theoretische onderbouwing** | Selecteren uit aangereikte literatuur |
+| **Diepgang** | Verkennend en beschrijvend |
+| **Complexiteit** | Afgebakend vraagstuk binnen één organisatieonderdeel |
+
+**Verschil met AD-afstuderen:**
+
+AD-studenten die afstuderen in het D-cluster voeren wel volledig research-based onderzoek uit met:
+
+- Zelfstandig geformuleerde onderzoeksvraag
+- Complexere vraagstukken over afdelingsgrenzen heen
+- Diepere theoretische verankering
+- Meer methodologische verantwoording
+
+**Status:** ✅ Beantwoord
+**Nog uit te werken:** Concrete criteria voor beoordeling van onderzoekskwaliteit
+
+### Aansluiting bij de bedrijfskundige handelingscyclus: praktijkonderzoek als integraal onderdeel
+
+**Vraag uit outline:** Aansluiting bij de bedrijfskundige handelingscyclus: praktijkonderzoek als integraal onderdeel
+
+Het praktijkonderzoek is geen separaat onderdeel, maar verweven met alle fasen van de bedrijfskundige handelingscyclus:
+
+**LUK1 (Analyseren)**: Onderzoekend signaleren en diagnosticeren met data
+
+**LUK2 (Ontwerpen)**: Evidence-based ontwikkelen van oplossingen
+
+**LUK3 (Begeleiden)**: Datageïnformeerd sturen van verandering
+
+**LUK4 (Evalueren)**: Systematisch monitoren en meten van resultaten
+
+**LUK5 (Professionaliseren)**: Reflecteren op eigen onderzoekend handelen
+
+Deze integratie bereidt studenten voor op de rol van **onderzoekend professional**: iemand die systematisch reflecteert op de praktijk en handelt op basis van informatie, niet intuïtie alleen.
+
+**Status:** ✅ Beantwoord
+**Nog uit te werken:** Concrete voorbeelden per LUK van hoe onderzoek geïntegreerd wordt
+
+## Zelfstandigheid en oordeelsvorming
+
+### De stap in zelfsturing: van begeleide opdrachten naar eigen verantwoordelijkheid
+
+**Vraag uit outline:** De stap in zelfsturing: van begeleide opdrachten naar eigen verantwoordelijkheid
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Professioneel oordeel in complexe situaties ontwikkelen
+
+**Vraag uit outline:** Professioneel oordeel in complexe situaties ontwikkelen
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Het moreel kompas in authentieke dilemma's
+
+**Vraag uit outline:** Het moreel kompas in authentieke dilemma's
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+## Verdieping van professionele identiteit
+
+### Ervaren van bedrijfskundige rollen in de praktijk
+
+**Vraag uit outline:** Ervaren van bedrijfskundige rollen in de praktijk
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Van 'beeld vormen' naar 'ervaren en reflecteren'
+
+**Vraag uit outline:** Van 'beeld vormen' naar 'ervaren en reflecteren'
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Feedback uit de praktijk als katalysator voor ontwikkeling
+
+**Vraag uit outline:** Feedback uit de praktijk als katalysator voor ontwikkeling
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open

@@ -1,0 +1,46 @@
+# Quarto build outputs
+_book/
+.quarto/
+
+# Ignore HTML/PDF files in root and subdirectories, but NOT in docs/
+/*.html
+/*.pdf
+/*_files/
+
+# R and RStudio
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+
+# LaTeX intermediates
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.tex
+
+# System files
+.DS_Store
+Thumbs.db
+*~
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+/.quarto/

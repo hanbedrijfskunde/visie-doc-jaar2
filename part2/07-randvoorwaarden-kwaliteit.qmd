@@ -1,0 +1,165 @@
+# Randvoorwaarden en Kwaliteitscriteria
+
+## Voor het C-cluster
+
+### Docentcompetenties: vakinhoud, didactiek, begeleiding
+
+**Vraag uit outline:** Docentcompetenties: vakinhoud, didactiek, begeleiding
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Faciliteiten: software en toegang tot praktijk
+
+**Vraag uit outline:** Faciliteiten: software (bijv. procesmining), toegang tot praktijk
+
+#### Software (bijvoorbeeld procesmining-tools)
+
+[Uitwerking volgt]
+
+#### Toegang tot praktijk
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Tijd en ruimte voor integratie en diepgang
+
+**Vraag uit outline:** Tijd en ruimte voor integratie en diepgang
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Afstemming tussen vakken en docenten
+
+**Vraag uit outline:** Afstemming tussen vakken en docenten
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+## Voor het D-cluster
+
+### Netwerk met werkveld opbouwen en onderhouden
+
+**Vraag uit outline:** Netwerk met werkveld opbouwen en onderhouden
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Professionalisering docenten: onderzoeksvaardigheden, stagebegeleiding
+
+**Vraag uit outline:** Professionalisering docenten: onderzoeksvaardigheden, stagebegeleiding
+
+#### Onderzoeksvaardigheden en de onderzoekende docent
+
+De visie op research-oriented en research-based onderwijs vereist dat docenten zelf onderzoekend opereren. Dit gaat verder dan vakinhoudelijke expertise; het vraagt om **docenten als onderzoekende professionals**.
+
+**Wat vraagt dit aan onderzoekcompetenties?**
+
+1. **Methodische vaardigheden**: Begeleiden van praktijkonderzoek
+2. **Eigen onderzoekservaring**: Geloofwaardigheid en voorbeeldrol
+3. **Kritisch denken**: Studenten leren vraagstukken te analyseren
+4. **Netwerk in werkveld**: Toegang tot relevante praktijkvraagstukken
+
+#### Organisatieleren en docent-onderzoeker koppeling
+
+De kwaliteit van het onderwijs in C- en D-clusters hangt direct samen met het vermogen van de opleiding om te leren als organisatie. Evenseth et al. [-@evenseth_building_2022] onderscheiden drie niveaus van organisatieleren die essentieel zijn voor onderwijskwaliteit:
+
+**Single-loop learning: Verbeteren binnen bestaande kaders**
+
+- Oplossen van concrete problemen in stage-begeleiding
+- Aanpassen van beoordelingsformulieren
+- Optimaliseren van logistieke processen
+
+**Double-loop learning: Onderliggende aannames herzien**
+
+- Reflecteren op wat 'goed praktijkonderzoek' is op dit niveau
+- Heroverwegen van begeleidingsmodellen op basis van ervaringen
+- Aanpassen van curricula op basis van feedback uit het werkveld
+
+**Triple-loop learning: Fundamentele vragen over identiteit en doel**
+
+- Wat betekent het om 'onderzoekend professional' te zijn in 2025?
+- Hoe verhouden we ons als opleiding tot maatschappelijke uitdagingen (AI, duurzaamheid)?
+- Welke rol speelt onderzoek in onze opleidingsidentiteit?
+
+**De cruciale rol van docent-onderzoekers:**
+
+Docenten die zelf onderzoek doen zijn bij uitstek in staat tot double- en triple-loop learning omdat zij:
+
+1. **Kritisch reflecteren** op eigen praktijk en aannames
+2. **Verbinding leggen** tussen theorie, onderwijs en praktijk
+3. **Signaleren** van nieuwe ontwikkelingen in het vakgebied
+4. **Experimenten** durven doen met didactiek en assessment
+5. **Bijdragen** aan kennisontwikkeling over HBO-onderwijs
+
+**Consequenties voor HR-beleid:**
+
+- **Professionalisering**: Tijd en middelen voor eigen onderzoek van docenten
+- **Scholing**: Training in praktijkonderzoek en onderzoeksbegeleiding
+- **Waardering**: Onderzoek als expliciete taak in functieprofielen
+- **Faciliteiten**: Toegang tot literatuur, conferenties, onderzoeksnetwerken
+- **Cultuur**: Onderzoekend vermogen als kernwaarde van het docententeam
+
+Zonder investering in onderzoekend vermogen van docenten is de visie op research-oriented en research-based onderwijs niet realiseerbaar. De onderzoeksleerlijn van studenten kan alleen zo sterk zijn als de onderzoekscultuur van het docententeam.
+
+#### Stagebegeleiding
+
+[Uitwerking volgt]
+
+**Status:** ⏸️ Gedeeltelijk beantwoord (organisatieleren uitgewerkt met Evenseth et al. 2022)
+**Nog uit te werken:** Concrete competentieprofiel voor docenten, scholingstrajecten, stagebebegeleiding
+
+### Begeleidingsratio die kwaliteit waarborgt
+
+**Vraag uit outline:** Begeleidingsratio die kwaliteit waarborgt
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Ondersteuning matching en kwaliteitsborging stageplaatsen
+
+**Vraag uit outline:** Ondersteuning matching en kwaliteitsborging stageplaatsen
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+## Kwaliteitsindicatoren
+
+### Hoe meten we of de visie wordt gerealiseerd?
+
+**Vraag uit outline:** Hoe meten we of de visie wordt gerealiseerd?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Studenttevredenheid en -ontwikkeling
+
+**Vraag uit outline:** Studenttevredenheid en -ontwikkeling
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Kwaliteit van stageplaatsen en opdrachten
+
+**Vraag uit outline:** Kwaliteit van stageplaatsen en opdrachten
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Aansluiting op vervolgonderwijs / arbeidsmarkt
+
+**Vraag uit outline:** Aansluiting op vervolgonderwijs / arbeidsmarkt
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open

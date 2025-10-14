@@ -1,0 +1,40 @@
+# Executive Summary {.unnumbered}
+
+## Kernboodschap
+
+[Hier komt de essentie van de visie]
+
+### Wat maakt de C- en D-clusters cruciaal?
+
+[Beschrijving van het belang voor bedrijfskundige professionaliteit]
+
+### De twee kernvragen
+
+**WHY – De unieke bijdrage**
+
+[Korte samenvatting van de bijdrage aan professionele ontwikkeling]
+
+**HOW – De ontwerpuitgangspunten**
+
+[Korte samenvatting van de ontwerpprincipes]
+
+## Leeswijzer
+
+### Structuur van het document
+
+Dit document bestaat uit drie delen:
+
+1. **DEEL 1: WHY** (5-7 pagina's) - Ontwikkelingslogica en unieke bijdrage
+2. **DEEL 2: HOW** (8-10 pagina's) - Ontwerpprincipes en criteria
+3. **DEEL 3: Van Visie naar Praktijk** (2-3 pagina's) - Implementatie
+
+### Doelgroep en gebruik
+
+Dit document is bedoeld voor:
+
+- Opleidingsmanagement: strategische besluitvorming
+- Docententeam: operationele uitwerking
+- Curriculumcommissie: curriculaire inbedding
+- Examencommissie: toetsing en assessment
+
+[Aanvullen met specifieke gebruiksinstructies per doelgroep]

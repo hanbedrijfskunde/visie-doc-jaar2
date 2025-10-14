@@ -1,0 +1,35 @@
+# Welkom {.unnumbered}
+
+Dit is het visiedocument voor de C- en D-clusters van de HBO-opleiding Bedrijfskunde.
+
+## Over dit document
+
+Dit visiedocument beantwoordt twee kernvragen:
+
+1. **WHY** – Wat is de unieke bijdrage van het C- en D-cluster aan bedrijfskundige professionaliteit?
+2. **HOW** – Vanuit welke ontwerpuitgangspunten en criteria komen we tot een optimaal cluster?
+
+## Doelgroep
+
+- Opleidingsmanagement
+- Docententeam C- en D-cluster
+- Curriculumcommissie
+- Examencommissie
+
+## Structuur
+
+Het document is opgebouwd uit drie delen:
+
+- **DEEL 1: WHY** - Beschrijft de unieke bijdrage van beide clusters aan de ontwikkeling van bedrijfskundige professionaliteit
+- **DEEL 2: HOW** - Presenteert de ontwerpuitgangspunten en criteria voor optimale clusters
+- **DEEL 3: Van Visie naar Praktijk** - Schetst de vertaling naar implementatie
+
+## Status en versie
+
+- **Status:** Concept voor validatie
+- **Versie:** 1.0
+- **Datum:** `r Sys.Date()`
+
+## Leeswijzer
+
+Begin met de [Executive Summary](executive-summary.qmd) voor een overzicht van de kernboodschap, of ga direct naar [DEEL 1](part1/01-inleiding-transitiefase.qmd) voor de volledige uitwerking.

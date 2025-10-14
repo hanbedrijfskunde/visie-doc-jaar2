@@ -1,0 +1,73 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Visie C- en D-cluster HBO Bedrijfskunde"
+  subtitle: "Ontwikkelingslogica en Ontwerpprincipes voor Leerjaar 2"
+  author: "[Auteurs in te vullen]"
+  date: today
+  language: nl
+
+  chapters:
+    - index.qmd
+    - executive-summary.qmd
+
+    - part: "DEEL 1: WHY - De Unieke Bijdrage aan Bedrijfskundige Professionaliteit"
+      chapters:
+        - part1/01-inleiding-transitiefase.qmd
+        - part1/02-c-cluster-transitie.qmd
+        - part1/03-d-cluster-praktijk.qmd
+        - part1/04-samenhang-cd.qmd
+
+    - part: "DEEL 2: HOW - Ontwerpuitgangspunten en Criteria"
+      chapters:
+        - part2/05-ontwerpprincipes-c-cluster.qmd
+        - part2/06-ontwerpprincipes-d-cluster.qmd
+        - part2/07-randvoorwaarden-kwaliteit.qmd
+
+    - part: "DEEL 3: Van Visie naar Praktijk"
+      chapters:
+        - part3/08-implementatie.qmd
+        - part3/09-conclusie.qmd
+
+    - part: "Bijlagen"
+      chapters:
+        - appendices/bijlage-a-eindkwalificaties.qmd
+        - appendices/bijlage-b-literatuur.qmd
+        - appendices/bijlage-c-consultatie.qmd
+
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    code-fold: true
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    number-depth: 3
+    link-external-newwindow: true
+
+  pdf:
+    documentclass: scrbook
+    classoption: [oneside, open=any]
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    number-depth: 3
+    colorlinks: true
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - margin=2.5cm
+    include-in-header:
+      text: |
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhead[L]{\leftmark}
+        \fancyhead[R]{\thepage}
