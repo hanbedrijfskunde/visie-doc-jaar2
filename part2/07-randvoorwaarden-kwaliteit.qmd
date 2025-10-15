@@ -112,7 +112,7 @@ Zonder investering in onderzoekend vermogen van docenten is de visie op research
 [Uitwerking volgt]
 
 **Status:** ⏸️ Gedeeltelijk beantwoord (organisatieleren uitgewerkt met Evenseth et al. 2022)
-**Nog uit te werken:** Concrete competentieprofiel voor docenten, scholingstrajecten, stagebebegeleiding
+**Nog uit te werken:** Competentiekader voor stagebegeleiding
 
 ### Begeleidingsratio die kwaliteit waarborgt
 
@@ -136,30 +136,163 @@ Zonder investering in onderzoekend vermogen van docenten is de visie op research
 
 **Vraag uit outline:** Hoe meten we of de visie wordt gerealiseerd?
 
-[Uitwerking volgt]
+**Kwaliteitssysteem als evaluatie-instrument**
 
-**Status:** ⏳ Nog open
+Het kwaliteitssysteem voor hedendaags hoger onderwijs (zie hoofdstuk 7 randvoorwaarden) biedt een concreet evaluatie-instrument om te meten of de visie voor C- en D-cluster wordt gerealiseerd. Het systeem omvat vijf criteria met elk 5-10 toetsvragen en een 5-puntsschaal.
+
+**Vijf kwaliteitscriteria als meetinstrument:**
+
+1. **Bevorderen van hoger-orde cognitie**: Analyseert het onderwijs kritisch? Ontwerpen studenten zelf oplossingen? Evalueren ze systematisch?
+
+2. **Cultiveren van een co-creatief leerecosysteem**:
+   - **Studentniveau**: Dragen studenten actief bij aan kennis? Leren ze van en met elkaar?
+   - **Organisatieniveau**: Zijn docenten onderzoekend actief? Is er sprake van double-loop learning?
+
+3. **Ontwerpen voor authenticiteit en interdisciplinariteit**: Werken studenten aan realistische vraagstukken? Overschrijden opdrachten vakgrenzen?
+
+4. **Ontwikkelen van kritische technologie- en datageletterdheid**: Kunnen studenten AI/data-tools niet alleen gebruiken maar ook kritisch evalueren?
+
+5. **Faciliteren van gepersonaliseerde en adaptieve leertrajecten**: Kunnen studenten eigen leerdoelen stellen? Is er ruimte voor verschillende tempo's en routes?
+
+**Scorerichtlijn per criterium (1-5):**
+
+- **1**: Criterium niet gerealiseerd (traditioneel onderwijs)
+- **3**: Criterium gedeeltelijk gerealiseerd (enkele elementen aanwezig)
+- **5**: Criterium volledig gerealiseerd (systematisch geïntegreerd)
+
+**Evaluatiemomenten:**
+
+- **Jaarlijks**: Self-assessment door docententeam per criterium
+- **Per onderwijseenheid**: Evaluatie van specifieke vakken/projecten
+- **Per cluster**: Beoordeling van C-cluster en D-cluster als geheel
+
+**Verbinding met organisatieleren:**
+
+Het evalueren op basis van deze criteria vereist **double-loop learning**: niet alleen meten of we doen wat we doen (single-loop), maar ook reflecteren of we de juiste dingen doen en of onze aannames kloppen (double-loop).
+
+**Status:** ✅ Beantwoord met kwaliteitssysteem als evaluatie-instrument
 
 ### Studenttevredenheid en -ontwikkeling
 
 **Vraag uit outline:** Studenttevredenheid en -ontwikkeling
 
-[Uitwerking volgt]
+**Meten van groei, niet alleen van tevredenheid**
 
-**Status:** ⏳ Nog open
+Studenttevredenheid is belangrijk, maar niet voldoende als kwaliteitsindicator. De kern is: **ontwikkelen studenten zich?**
+
+**Indicatoren voor studentontwikkeling:**
+
+1. **Cognitieve ontwikkeling** (Criterium 1):
+   - Kunnen studenten aan het eind van het C-cluster relevante theorieën selecteren?
+   - Kunnen studenten in het D-cluster zelfstandig praktijkonderzoek uitvoeren?
+   - Groei van executief naar analytisch en evaluatief denken
+
+2. **Zelfstandigheidsontwikkeling** (Criterium 5):
+   - Nemen studenten steeds meer initiatief?
+   - Kunnen studenten eigen leerbehoeften identificeren?
+   - Groei van gestructureerde naar open opdrachten
+
+3. **Professionele identiteitsontwikkeling** (LUK5):
+   - Ontwikkelen studenten bewustzijn van bedrijfskundige rollen?
+   - Groeien ze in moreel kompas en waardenspanning?
+   - Kunnen ze feedback actief ophalen en integreren?
+
+**Meetinstrumenten:**
+
+- **Portfolio-analyse**: Groei zichtbaar over tijd
+- **Reflectieverslagen**: Zelfinzicht en metacognitie
+- **Peer feedback**: Hoe ervaren medestudenten de ontwikkeling?
+- **360-graden feedback** (D-cluster): Input van stagebegeleiders, docenten, medestudenten
+
+**Let op**: Tevredenheid kan soms **negatief correleren** met ontwikkeling (productieve worsteling is niet altijd comfortabel). Een lage tevredenheidsscore vraagt dus altijd om verdieping: is het onvrede over onduidelijkheid of over uitdaging?
+
+**Status:** ✅ Beantwoord met focus op ontwikkeling (groei) boven tevredenheid
 
 ### Kwaliteit van stageplaatsen en opdrachten
 
 **Vraag uit outline:** Kwaliteit van stageplaatsen en opdrachten
 
-[Uitwerking volgt]
+**Authenticiteit als kerncriterium (Criterium 3)**
 
-**Status:** ⏳ Nog open
+De kwaliteit van stageplaatsen en opdrachten is te beoordelen aan de hand van Criterium 3: Ontwerpen voor authenticiteit en interdisciplinariteit.
+
+**Toetsvragen voor stageplaatsen:**
+
+1. Zijn de problemen realistisch en relevant voor de organisatie?
+2. Hebben oplossingen betekenisvolle consequenties?
+3. Werkt de student met echte stakeholders?
+4. Is er sprake van complexiteit en ambiguïteit?
+5. Overschrijdt het vraagstuk vakgrenzen (interdisciplinariteit)?
+
+**Kwaliteitsindicatoren per vraag:**
+
+- **Realisme**: Stagebedrijf heeft daadwerkelijke behoefte aan analyse/advies
+- **Impact**: Resultaten worden gebruikt (niet alleen voor de opleiding gemaakt)
+- **Stakeholders**: Student werkt met meerdere interne/externe partijen
+- **Complexiteit**: Vraagstuk vereist integratie van meerdere domeinen
+- **Niveau**: Opdracht past bij tussen-niveau (tussen propedeuse en AD)
+
+**Minimumeisen voor stageplaatsen:**
+
+- Begeleiding door ervaren professional met bedrijfskundige affiniteit
+- Toegang tot relevante data en informatie
+- Ruimte voor onderzoekend werken (niet alleen uitvoeren)
+- Veilige leeromgeving (fouten mogen gemaakt worden)
+- Aansluiting bij één of meerdere LUKs (bedrijfskundige handelingscyclus)
+
+**Monitoring van kwaliteit:**
+
+- **Intake-gesprekken** met stagebedrijven: Verwachtingen en mogelijkheden bespreken
+- **Tussentijdse evaluaties**: Hoe ervaart de student de stageplaats?
+- **Eindgesprekken** met stagebedrijven: Leren van ervaringen (organisatieleren)
+
+**Status:** ✅ Beantwoord met Criterium 3 (Authenticiteit en interdisciplinariteit)
 
 ### Aansluiting op vervolgonderwijs / arbeidsmarkt
 
 **Vraag uit outline:** Aansluiting op vervolgonderwijs / arbeidsmarkt
 
-[Uitwerking volgt]
+**Twee uitstroomprofielen, één visie**
 
-**Status:** ⏳ Nog open
+De opleiding bedient twee uitstroomprofielen:
+1. **AD-afstuderen**: Direct naar arbeidsmarkt
+2. **Bachelor-doorstroom**: Vervolg in jaar 3
+
+**Kwaliteitsindicatoren voor arbeidsmarktaansluiting (AD-afstuderen):**
+
+1. **Employability**: Vinden AD-afgestudeerden werk op passend niveau?
+   - Werkgelegenheid binnen 6 maanden na afstuderen
+   - Functieniveau past bij AD-competenties
+
+2. **Waardering door werkgevers**: Herkennen werkgevers de bedrijfskundige competenties?
+   - Feedback van stagebedrijven op competentieontwikkeling
+   - Arbeidsmarktonderzoek: wat waarderen werkgevers?
+
+3. **Professionele identiteit**: Voelen AD-afgestudeerden zich competent als bedrijfskundige?
+   - Zelfvertrouwen in bedrijfskundige rol
+   - Kunnen ze hun toegevoegde waarde articuleren?
+
+**Kwaliteitsindicatoren voor vervolgonderwijs (bachelor-doorstroom):**
+
+1. **Studiesucces in jaar 3**: Presteren studenten goed na C- en D-cluster?
+   - Slagingspercentage in jaar 3
+   - Studietempo (vertraging?)
+
+2. **Voorbereiding op verdieping**: Zijn studenten klaar voor specialisatie?
+   - Hebben ze de basis voor alle vier domeinen (Strategie, Operations, IM, OG)?
+   - Kunnen ze onderzoeksvaardigheden verder ontwikkelen?
+
+3. **Transfer**: Kunnen studenten C/D-cluster competenties toepassen in jaar 3?
+   - Herkennen docenten in jaar 3 de ontwikkeling?
+   - Kunnen studenten zelf benoemen wat ze meenemen?
+
+**Organisatieleren door alumni-feedback:**
+
+Systematisch contact met alumni (double-loop learning) informeert de opleiding over:
+- Wat hebben ze gemist in hun voorbereiding?
+- Wat heeft hen goed voorbereid?
+- Welke ontwikkelingen zien zij in het werkveld?
+
+Deze feedback wordt gebruikt om curricula bij te stellen (Criterium 2: organisatieniveau).
+
+**Status:** ✅ Beantwoord met focus op twee uitstroomprofielen en organisatieleren

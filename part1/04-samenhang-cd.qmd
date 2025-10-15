@@ -1,70 +1,170 @@
 # Samenhang C→D: Twee Clusters, Één Ontwikkeltraject
 
-## De brugfunctie van C naar D
+## Transfer van ontwikkeling: van beschermde omgeving naar praktijk
 
-### Welke competenties uit C worden expliciet toegepast in D?
+### De vier kernthema's in transitie
 
-**Vraag uit outline:** Welke competenties uit C worden expliciet toegepast in D?
+#### Hoe wordt integratievermogen overgedragen van oefencases naar authentieke organisatievraagstukken?
 
-[Uitwerking volgt]
-
-**Status:** ⏳ Nog open
-
-### Hoe wordt transfer van geleerd gedrag gefaciliteerd?
-
-**Vraag uit outline:** Hoe wordt transfer van geleerd gedrag gefaciliteerd?
+**Vraag uit outline:** Hoe wordt integratievermogen overgedragen van oefencases naar authentieke organisatievraagstukken?
 
 [Uitwerking volgt]
 
 **Status:** ⏳ Nog open
 
-### De rol van reflectie in het zichtbaar maken van ontwikkeling
+#### Hoe evolueert onderzoekend vermogen van desk research naar embedded praktijkonderzoek?
 
-**Vraag uit outline:** De rol van reflectie in het zichtbaar maken van ontwikkeling
-
-[Uitwerking volgt]
-
-**Status:** ⏳ Nog open
-
-## De unieke bijdrage van leerjaar 2
-
-### Positie tussen propedeuse en AD/bachelor
-
-**Vraag uit outline:** Positie tussen propedeuse en AD/bachelor
+**Vraag uit outline:** Hoe evolueert onderzoekend vermogen van desk research naar embedded praktijkonderzoek?
 
 [Uitwerking volgt]
 
 **Status:** ⏳ Nog open
 
-### Voor bachelor-studenten: brug naar verdieping en specialisatie
+#### Hoe ontwikkelt zelfstandigheid van begeleiding naar eigen verantwoordelijkheid?
 
-**Vraag uit outline:** Voor bachelor-studenten: brug naar verdieping en specialisatie
-
-[Uitwerking volgt]
-
-**Status:** ⏳ Nog open
-
-### Voor AD-studenten: afronding met praktijkgerichtheid
-
-**Vraag uit outline:** Voor AD-studenten: afronding met praktijkgerichtheid
+**Vraag uit outline:** Hoe ontwikkelt zelfstandigheid van begeleiding naar eigen verantwoordelijkheid?
 
 [Uitwerking volgt]
 
 **Status:** ⏳ Nog open
 
-## Ontwikkelingslogica samengevat
+#### Hoe groeit professionele identiteit van bewustwording naar vormgeving in de praktijk?
 
-### Visualisatie van de progressielijn per LUK
+**Vraag uit outline:** Hoe groeit professionele identiteit van bewustwording naar vormgeving in de praktijk?
 
-**Vraag uit outline:** Visualisatie van de progressielijn per LUK
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Transfer faciliteren
+
+#### Welke voorbereidende activiteiten in het C-cluster faciliteren transfer naar het D-cluster?
+
+**Vraag uit outline:** Welke voorbereidende activiteiten in het C-cluster faciliteren transfer naar het D-cluster?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+#### Hoe wordt transfer van geleerd gedrag expliciet gemaakt en ondersteund?
+
+**Vraag uit outline:** Hoe wordt transfer van geleerd gedrag expliciet gemaakt en ondersteund?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+#### Welke rol speelt reflectie als brug tussen C en D?
+
+**Vraag uit outline:** Welke rol speelt reflectie als brug tussen C en D?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+## De ontwikkelingslogica samengevat
+
+### De doorlopende leerlijn
+
+#### Hoe verloopt de progressie: uitvoeren (propedeuse) → ontwerpen (C-cluster) → toepassen (D-cluster) → verdiepen (AD/bachelor)?
+
+**Vraag uit outline:** Hoe verloopt de progressie: uitvoeren (propedeuse) → ontwerpen (C-cluster) → toepassen (D-cluster) → verdiepen (AD/bachelor)?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+#### Wat is de visualisatie van de ontwikkeling per LUK over deze leerlijn?
+
+**Vraag uit outline:** Wat is de visualisatie van de ontwikkeling per LUK over deze leerlijn?
 
 [Hier komen visualisaties/diagrammen]
 
 **Status:** ⏳ Nog open
 
-### De rode draad: van uitvoeren → ontwerpen → toepassen
+#### Wat maakt de combinatie C+D krachtiger dan de losse onderdelen?
 
-**Vraag uit outline:** De rode draad: van uitvoeren → ontwerpen → toepassen
+**Vraag uit outline:** Wat maakt de combinatie C+D krachtiger dan de losse onderdelen?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+## Differentiatie naar studieroute
+
+### Bachelor-doorstromers
+
+#### Hoe bereidt leerjaar 2 voor op specialisatie en verdieping in jaar 3?
+
+**Vraag uit outline:** Hoe bereidt leerjaar 2 voor op specialisatie en verdieping in jaar 3?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+#### Welke brede basis is nodig voor de bachelor-fase?
+
+**Vraag uit outline:** Welke brede basis is nodig voor de bachelor-fase?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+#### Wat zijn de specifieke leerdoelen voor deze groep?
+
+**Vraag uit outline:** Wat zijn de specifieke leerdoelen voor deze groep?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### AD-afstudeerders
+
+#### Hoe functioneert leerjaar 2 als afrondende fase met praktijkgerichtheid?
+
+**Vraag uit outline:** Hoe functioneert leerjaar 2 als afrondende fase met praktijkgerichtheid?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+#### Welke afstudeercompetenties moeten worden bereikt?
+
+**Vraag uit outline:** Welke afstudeercompetenties moeten worden bereikt?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+#### Wat zijn de specifieke eindtermen voor deze groep?
+
+**Vraag uit outline:** Wat zijn de specifieke eindtermen voor deze groep?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Gemeenschappelijke basis en gedifferentieerde uitwerking
+
+#### Wat is de gemeenschappelijke leerbasis voor beide groepen?
+
+**Vraag uit outline:** Wat is de gemeenschappelijke leerbasis voor beide groepen?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+#### Waar en hoe vindt differentiatie plaats?
+
+**Vraag uit outline:** Waar en hoe vindt differentiatie plaats?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+#### Hoe borgen we kwaliteit voor beide routes zonder inefficiëntie?
+
+**Vraag uit outline:** Hoe borgen we kwaliteit voor beide routes zonder inefficiëntie?
 
 [Uitwerking volgt]
 

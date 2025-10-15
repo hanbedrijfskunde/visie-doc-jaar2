@@ -8,9 +8,36 @@
 
 **Vraag uit outline:** Wat zijn realistische verwachtingen op dit niveau?
 
-[Uitwerking volgt]
+**Authenticiteit als kernkenmerk van het D-cluster**
 
-**Status:** ⏳ Nog open
+Het D-cluster vertegenwoordigt **criterium 3 van het MECE framework**: Designing for Authenticity and Interdisciplinarity. De stage biedt authentieke, complexe problemen uit de echte wereld als uitgangspunt voor leren.
+
+**Kenmerken van authentieke leeromgevingen:**
+- **Echte stakeholders**: Werken met daadwerkelijke klanten, collega's, managers
+- **Betekenisvolle consequenties**: Beslissingen en adviezen hebben impact op de organisatie
+- **Complexiteit en ambiguïteit**: Niet alle problemen hebben duidelijke oplossingen
+- **Interdisciplinariteit**: Vraagstukken overschrijden vakgrenzen (strategie, operations, HRM, IT)
+- **Tijd- en resourcebeperkingen**: Realistische constraints zoals in de beroepspraktijk
+
+**Realistische verwachtingen tussen propedeuse en AD:**
+
+Studenten kunnen op dit niveau:
+- ✅ Toegewezen vraagstukken analyseren binnen één afdeling/proces
+- ✅ Beproefde methoden toepassen met begeleiding
+- ✅ Advies geven op tactisch/operationeel niveau
+- ✅ Samenwerken met collega's en begeleiders
+- ✅ Reflecteren op eigen handelen en leerproces
+
+Studenten kunnen (nog) niet:
+- ❌ Volledig zelfstandig strategische vraagstukken definiëren en oplossen
+- ❌ Complexe organisatiebrede veranderingen leiden zonder ondersteuning
+- ❌ Geavanceerde onderzoeksmethoden zelfstandig ontwikkelen en verantwoorden
+- ❌ Politiek-sensitieve stakeholder-processen volledig zelfstandig navigeren
+
+Deze realistische verwachtingen helpen **onder- en overbelasting te voorkomen** en zorgen voor een veilige maar uitdagende leeromgeving.
+
+**Status:** ✅ Beantwoord met MECE framework criterium 3
+**Nog uit te werken:** Criteria voor het beoordelen van de geschiktheid van stagedopdrachten
 
 #### Stagetaken tussen propedeuse en AD: concrete criteria
 
@@ -146,25 +173,98 @@ LUK1-5 in de stage
 
 **Vraag uit outline:** Onderzoeksbegeleiding en methodische ondersteuning
 
-[Uitwerking volgt]
+**Ontwerpprincipe: Research-based learning met gepersonaliseerde ondersteuning**
 
-**Status:** ⏳ Nog open
+De studiedag is het centrale moment voor **onderzoeksbegeleiding** in het D-cluster. Hier komt Criterium 5 (Gepersonaliseerde en adaptieve leertrajecten) samen met Criterium 1 (Hoger-orde cognitie): studenten krijgen methodische ondersteuning afgestemd op hun individuele ontwikkel- en onderzoeksbehoeften.
+
+**Kernfuncties van onderzoeksbegeleiding:**
+
+1. **Methodische ondersteuning**: Helpen bij toepassen van onderzoeksmethoden in authentieke praktijkcontext
+   - Welke methode past bij mijn vraagstuk?
+   - Hoe voer ik deze methode correct uit?
+   - Hoe interpreteer ik de resultaten?
+
+2. **Reflectie op onderzoeksproces**: Van research-oriented naar research-based
+   - Wat leer ik over het doen van onderzoek?
+   - Welke uitdagingen kom ik tegen en hoe los ik die op?
+   - Hoe verbeter ik mijn onderzoeksvaardigheden?
+
+3. **Kritische dialoog**: Docent als critical friend
+   - Uitdagen van aannames en keuzes
+   - Verdiepen van analyses
+   - Waarborgen van wetenschappelijke kwaliteit
+
+**Personalisatie in begeleiding:**
+
+Niet alle studenten hebben dezelfde ondersteuningsbehoeften. Criterium 5 benadrukt dat leertrajecten aangepast moeten worden aan individuele startniveaus, tempo's en leerstijlen. Dit betekent:
+
+- **Adaptieve begeleiding**: Meer ondersteuning waar nodig, meer autonomie waar mogelijk
+- **Differentiatie AD vs Bachelor**: AD-studenten krijgen diepere methodische begeleiding voor afstuderen
+- **Learning analytics**: Gebruik van data om begeleidingsbehoeften te identificeren (waar mogelijk)
+
+**Verbinding met organisatieleren (Criterium 2):**
+
+Docent-onderzoekers leren zelf ook van de stage-ervaringen en onderzoeksuitdagingen van studenten (double-loop learning). Deze wederzijdse leerrelatie verrijkt zowel student als docent.
+
+**Status:** ✅ Beantwoord met Criterium 5 (Gepersonaliseerde leertrajecten) en Criterium 1 (Hoger-orde cognitie)
 
 #### Reflectie op stage-ervaringen
 
 **Vraag uit outline:** Reflectie op stage-ervaringen
 
-[Uitwerking volgt]
+**Ontwerpprincipe: Metacognitie en professionele identiteitsontwikkeling**
 
-**Status:** ⏳ Nog open
+Reflectie op stage-ervaringen is essentieel voor het ontwikkelen van **metacognitieve vaardigheden** (Criterium 1: Hoger-orde cognitie) en **professionele identiteit** (LUK5). De studiedag biedt een veilige ruimte om ervaringen te delen, te analyseren en te leren van successen en uitdagingen.
+
+**Waarom reflectie centraal staat in het D-cluster:**
+
+Het D-cluster is niet alleen een werkervaring, maar een **leeromgeving** waarin studenten zich ontwikkelen tot bedrijfskundige professionals. Reflectie is het mechanisme waarmee ervaring wordt omgezet in leren [@kolb_experiential_1984].
+
+**Drie niveaus van reflectie:**
+
+1. **Technische reflectie**: Wat heb ik gedaan? Welke methoden en technieken heb ik toegepast?
+   - Focus op acties en resultaten
+   - Evalueren van effectiviteit
+
+2. **Praktische reflectie**: Waarom heb ik dit zo gedaan? Welke aannames en keuzes lagen eronder?
+   - Focus op besluitvorming en afwegingen
+   - Begrijpen van contextuele factoren
+
+3. **Kritische reflectie**: Wie word ik als professional? Welke waarden en overtuigingen sturen mijn handelen?
+   - Focus op professionele identiteit en moreel kompas
+   - Bewustwording van rol en impact
+
+**Vormgeving van reflectie:**
+
+- **Gestructureerde reflectie**: Portfolio, reflectieverslagen, leerlogboek
+- **Dialogische reflectie**: Intervisie, peer feedback, gesprekken met begeleiders
+- **Kritische vrienden**: Medestudenten en docenten die uitdagen en verdiepen
+
+**Verbinding met Co-creatief leerecosysteem (Criterium 2):**
+
+Studenten leren niet alleen door eigen reflectie, maar vooral door reflectie **van en met** medestudenten. Het delen van ervaringen verrijkt het leren van alle betrokkenen. Studenten observeren ook hoe docenten reflecteren en leren van hun stage-begeleiding.
+
+**Status:** ✅ Beantwoord met Criterium 1 (Metacognitie) en Criterium 2 (Co-creatief leerecosysteem)
 
 #### Peer learning en uitwisseling
 
 **Vraag uit outline:** Peer learning en uitwisseling
 
-[Uitwerking volgt]
+De studiedag faciliteert **peer learning en learnersourcing** als kernprincipes [@singh_learnersourcing_2022; @khosravi_learnersourcing_2023]. Studenten leren van en met elkaar door ervaringen uit verschillende stagecontexten te delen.
 
-**Status:** ⏳ Nog open
+**Ontwerpprincipe: Co-creatief leren**
+
+Peer learning in het D-cluster gaat verder dan kennisoverdracht: studenten dragen actief bij aan het creëren van kennis en leermateriaal. Dit sluit aan bij criterium 2 van het MECE framework: Cultivating a Co-Creative Learning Ecosystem.
+
+**Learnersourcing als pedagogisch principe:**
+
+De studiedag biedt kansen voor studenten om bij te dragen aan een gedeelde kennisbasis door best practices, praktijkervaringen, onderzoeksbevindingen en reflecties te delen. Dit versterkt zowel het leren van de bijdragers als de begunstigden.
+
+**Ontwerpprincipe: AI-enhanced peer assessment**
+
+AI kan peer learning schaalbaar en effectief maken [@topping_enhancing_2025]: studenten beoordelen elkaars werk met AI-ondersteuning voor kwaliteitsborging. Learning analytics [@lahza_analytics_2023] bieden inzicht in leertactieken en -strategieën.
+
+**Status:** ✅ Beantwoord met learnersourcing framework als ontwerpprincipe
 
 #### Theoretische verdieping
 

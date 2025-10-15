@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -255,7 +275,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#ontwikkelingslogica-per-leeruitkomst" id="toc-ontwikkelingslogica-per-leeruitkomst" class="nav-link active" data-scroll-target="#ontwikkelingslogica-per-leeruitkomst"><span class="header-section-number">2.1</span> Ontwikkelingslogica per leeruitkomst</a>
+  <li><a href="#de-bedrijfskundige-handelingscyclus-ontwikkeling-per-leeruitkomst" id="toc-de-bedrijfskundige-handelingscyclus-ontwikkeling-per-leeruitkomst" class="nav-link active" data-scroll-target="#de-bedrijfskundige-handelingscyclus-ontwikkeling-per-leeruitkomst"><span class="header-section-number">2.1</span> De bedrijfskundige handelingscyclus: ontwikkeling per leeruitkomst</a>
   <ul class="collapse">
   <li><a href="#luk1-analyseren-en-diagnosticeren" id="toc-luk1-analyseren-en-diagnosticeren" class="nav-link" data-scroll-target="#luk1-analyseren-en-diagnosticeren"><span class="header-section-number">2.1.1</span> LUK1: Analyseren en diagnosticeren</a></li>
   <li><a href="#luk2-herontwerpen" id="toc-luk2-herontwerpen" class="nav-link" data-scroll-target="#luk2-herontwerpen"><span class="header-section-number">2.1.2</span> LUK2: (Her)ontwerpen</a></li>
@@ -263,17 +283,12 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#luk4-evalueren" id="toc-luk4-evalueren" class="nav-link" data-scroll-target="#luk4-evalueren"><span class="header-section-number">2.1.4</span> LUK4: Evalueren</a></li>
   <li><a href="#luk5-professionaliseren" id="toc-luk5-professionaliseren" class="nav-link" data-scroll-target="#luk5-professionaliseren"><span class="header-section-number">2.1.5</span> LUK5: Professionaliseren</a></li>
   </ul></li>
-  <li><a href="#integratievermogen-als-kerncompetentie" id="toc-integratievermogen-als-kerncompetentie" class="nav-link" data-scroll-target="#integratievermogen-als-kerncompetentie"><span class="header-section-number">2.2</span> Integratievermogen als kerncompetentie</a>
+  <li><a href="#vier-kernthemas-in-ontwikkeling" id="toc-vier-kernthemas-in-ontwikkeling" class="nav-link" data-scroll-target="#vier-kernthemas-in-ontwikkeling"><span class="header-section-number">2.2</span> Vier kernthema’s in ontwikkeling</a>
   <ul class="collapse">
-  <li><a href="#wat-vraagt-het-integreren-van-de-vijf-luks-in-de-praktijk" id="toc-wat-vraagt-het-integreren-van-de-vijf-luks-in-de-praktijk" class="nav-link" data-scroll-target="#wat-vraagt-het-integreren-van-de-vijf-luks-in-de-praktijk"><span class="header-section-number">2.2.1</span> Wat vraagt het integreren van de vijf LUKs in de praktijk?</a></li>
-  <li><a href="#hoe-leren-studenten-de-vier-vakgebieden-te-verbinden" id="toc-hoe-leren-studenten-de-vier-vakgebieden-te-verbinden" class="nav-link" data-scroll-target="#hoe-leren-studenten-de-vier-vakgebieden-te-verbinden"><span class="header-section-number">2.2.2</span> Hoe leren studenten de vier vakgebieden te verbinden?</a></li>
-  <li><a href="#van-kennis-over-naar-kunnen-integreren" id="toc-van-kennis-over-naar-kunnen-integreren" class="nav-link" data-scroll-target="#van-kennis-over-naar-kunnen-integreren"><span class="header-section-number">2.2.3</span> Van ‘kennis over’ naar ‘kunnen integreren’</a></li>
-  </ul></li>
-  <li><a href="#professionele-identiteitsontwikkeling" id="toc-professionele-identiteitsontwikkeling" class="nav-link" data-scroll-target="#professionele-identiteitsontwikkeling"><span class="header-section-number">2.3</span> Professionele identiteitsontwikkeling</a>
-  <ul class="collapse">
-  <li><a href="#wat-is-beginnende-bedrijfskundige-identiteit" id="toc-wat-is-beginnende-bedrijfskundige-identiteit" class="nav-link" data-scroll-target="#wat-is-beginnende-bedrijfskundige-identiteit"><span class="header-section-number">2.3.1</span> Wat is beginnende bedrijfskundige identiteit?</a></li>
-  <li><a href="#bewustzijn-van-rollen-wanneer-ben-je-adviseur-manager-of-onderzoeker" id="toc-bewustzijn-van-rollen-wanneer-ben-je-adviseur-manager-of-onderzoeker" class="nav-link" data-scroll-target="#bewustzijn-van-rollen-wanneer-ben-je-adviseur-manager-of-onderzoeker"><span class="header-section-number">2.3.2</span> Bewustzijn van rollen: wanneer ben je adviseur, manager of onderzoeker?</a></li>
-  <li><a href="#het-moreel-kompas-in-ontwikkeling-van-kennen-naar-toepassen" id="toc-het-moreel-kompas-in-ontwikkeling-van-kennen-naar-toepassen" class="nav-link" data-scroll-target="#het-moreel-kompas-in-ontwikkeling-van-kennen-naar-toepassen"><span class="header-section-number">2.3.3</span> Het moreel kompas in ontwikkeling: van kennen naar toepassen</a></li>
+  <li><a href="#integratievermogen" id="toc-integratievermogen" class="nav-link" data-scroll-target="#integratievermogen"><span class="header-section-number">2.2.1</span> Integratievermogen</a></li>
+  <li><a href="#onderzoekend-vermogen" id="toc-onderzoekend-vermogen" class="nav-link" data-scroll-target="#onderzoekend-vermogen"><span class="header-section-number">2.2.2</span> Onderzoekend vermogen</a></li>
+  <li><a href="#zelfstandigheid" id="toc-zelfstandigheid" class="nav-link" data-scroll-target="#zelfstandigheid"><span class="header-section-number">2.2.3</span> Zelfstandigheid</a></li>
+  <li><a href="#professionele-identiteit" id="toc-professionele-identiteit" class="nav-link" data-scroll-target="#professionele-identiteit"><span class="header-section-number">2.2.4</span> Professionele identiteit</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -300,197 +315,307 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="ontwikkelingslogica-per-leeruitkomst" class="level2" data-number="2.1">
-<h2 data-number="2.1" class="anchored" data-anchor-id="ontwikkelingslogica-per-leeruitkomst"><span class="header-section-number">2.1</span> Ontwikkelingslogica per leeruitkomst</h2>
+<section id="de-bedrijfskundige-handelingscyclus-ontwikkeling-per-leeruitkomst" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="de-bedrijfskundige-handelingscyclus-ontwikkeling-per-leeruitkomst"><span class="header-section-number">2.1</span> De bedrijfskundige handelingscyclus: ontwikkeling per leeruitkomst</h2>
 <section id="luk1-analyseren-en-diagnosticeren" class="level3" data-number="2.1.1">
 <h3 data-number="2.1.1" class="anchored" data-anchor-id="luk1-analyseren-en-diagnosticeren"><span class="header-section-number">2.1.1</span> LUK1: Analyseren en diagnosticeren</h3>
-<section id="van-en-naar" class="level4">
-<h4 class="anchored" data-anchor-id="van-en-naar">Van en Naar</h4>
-<p><strong>Vraag uit outline:</strong> Van en Naar</p>
-<ul>
-<li><strong>Van:</strong> Gestructureerde diagnose met gegeven model (propedeuse)</li>
-<li><strong>Naar:</strong> Zelfstandig signaleren van knelpunten met zelf te selecteren theorieën (AD-niveau)</li>
-</ul>
-<p><strong>Status:</strong> ⏸️ Gedeeltelijk beantwoord</p>
-</section>
-<section id="kernvraag-hoe-ontwikkelt-de-student-van-toepassen-naar-selecteren" class="level4">
-<h4 class="anchored" data-anchor-id="kernvraag-hoe-ontwikkelt-de-student-van-toepassen-naar-selecteren">Kernvraag: Hoe ontwikkelt de student van ‘toepassen’ naar ‘selecteren’?</h4>
-<p><strong>Vraag uit outline:</strong> Hoe ontwikkelt de student van ‘toepassen’ naar ‘selecteren’?</p>
+<section id="hoe-ontwikkelt-de-student-van-toepassen-van-gegeven-model-propedeuse-naar-selecteren-van-relevante-theorieën-ad-niveau" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-ontwikkelt-de-student-van-toepassen-van-gegeven-model-propedeuse-naar-selecteren-van-relevante-theorieën-ad-niveau">Hoe ontwikkelt de student van ‘toepassen van gegeven model’ (propedeuse) naar ‘selecteren van relevante theorieën’ (AD-niveau)?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe ontwikkelt de student van ‘toepassen van gegeven model’ (propedeuse) naar ‘selecteren van relevante theorieën’ (AD-niveau)?</p>
+<p>[Uitwerking volgt]</p>
 <p><strong>Status:</strong> ⏳ Nog open</p>
 </section>
-<section id="concrete-ontwikkeling" class="level4">
-<h4 class="anchored" data-anchor-id="concrete-ontwikkeling">Concrete ontwikkeling</h4>
-<p><strong>Vraag uit outline:</strong> Concrete ontwikkeling</p>
-<p><strong>Stakeholder-bewustzijn: van vooral intern naar intern én extern</strong></p>
+<section id="hoe-groeit-het-stakeholder-bewustzijn-van-vooral-intern-naar-intern-én-extern" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-groeit-het-stakeholder-bewustzijn-van-vooral-intern-naar-intern-én-extern">Hoe groeit het stakeholder-bewustzijn van vooral intern naar intern én extern?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe groeit het stakeholder-bewustzijn van vooral intern naar intern én extern?</p>
 <p>[Uitwerking volgt]</p>
-<p><strong>Theoretische onderbouwing: van aangereikte modellen naar zelf selecteren relevante theorieën</strong></p>
+<p><strong>Status:</strong> ⏳ Nog open</p>
+</section>
+<section id="hoe-neemt-de-complexiteit-van-vraagstukken-toe-van-eenvoudig-naar-meer-variabelen" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-neemt-de-complexiteit-van-vraagstukken-toe-van-eenvoudig-naar-meer-variabelen">Hoe neemt de complexiteit van vraagstukken toe: van eenvoudig naar meer variabelen?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe neemt de complexiteit van vraagstukken toe: van eenvoudig naar meer variabelen?</p>
 <p>[Uitwerking volgt]</p>
-<p><strong>Complexiteit: van eenvoudige naar eenvoudige bedrijfskundige vraagstukken met meer variabelen</strong></p>
+<p><strong>Status:</strong> ⏳ Nog open</p>
+</section>
+<section id="hoe-ontwikkelt-de-theoretische-onderbouwing-van-aangereikte-modellen-naar-zelf-selecteren" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-ontwikkelt-de-theoretische-onderbouwing-van-aangereikte-modellen-naar-zelf-selecteren">Hoe ontwikkelt de theoretische onderbouwing: van aangereikte modellen naar zelf selecteren?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe ontwikkelt de theoretische onderbouwing: van aangereikte modellen naar zelf selecteren?</p>
 <p>[Uitwerking volgt]</p>
 <p><strong>Status:</strong> ⏳ Nog open</p>
 </section>
 </section>
 <section id="luk2-herontwerpen" class="level3" data-number="2.1.2">
 <h3 data-number="2.1.2" class="anchored" data-anchor-id="luk2-herontwerpen"><span class="header-section-number">2.1.2</span> LUK2: (Her)ontwerpen</h3>
-<section id="van-en-naar-1" class="level4">
-<h4 class="anchored" data-anchor-id="van-en-naar-1">Van en Naar</h4>
-<p><strong>Vraag uit outline:</strong> Van en Naar</p>
-<ul>
-<li><strong>Van:</strong> Verbetervoorstel voor eenvoudig proces (propedeuse)</li>
-<li><strong>Naar:</strong> Strategisch passend ontwerp op tactisch/operationeel niveau (AD-niveau)</li>
-</ul>
-<p><strong>Status:</strong> ⏸️ Gedeeltelijk beantwoord</p>
-</section>
-<section id="kernvraag-hoe-leert-de-student-de-verbinding-tussen-operatie-en-strategie-te-maken" class="level4">
-<h4 class="anchored" data-anchor-id="kernvraag-hoe-leert-de-student-de-verbinding-tussen-operatie-en-strategie-te-maken">Kernvraag: Hoe leert de student de verbinding tussen operatie en strategie te maken?</h4>
+<section id="hoe-leert-de-student-de-verbinding-tussen-operatie-en-strategie-te-maken" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-leert-de-student-de-verbinding-tussen-operatie-en-strategie-te-maken">Hoe leert de student de verbinding tussen operatie en strategie te maken?</h4>
 <p><strong>Vraag uit outline:</strong> Hoe leert de student de verbinding tussen operatie en strategie te maken?</p>
+<p>[Uitwerking volgt]</p>
 <p><strong>Status:</strong> ⏳ Nog open</p>
 </section>
-<section id="concrete-ontwikkeling-1" class="level4">
-<h4 class="anchored" data-anchor-id="concrete-ontwikkeling-1">Concrete ontwikkeling</h4>
-<p><strong>Vraag uit outline:</strong> Concrete ontwikkeling</p>
-<p><strong>Systeem-bewustzijn: van bewust van impact naar bewust van invloed op andere organisatieonderdelen</strong></p>
+<section id="hoe-ontwikkelt-het-systeem-bewustzijn-van-impact-naar-invloed-op-andere-organisatieonderdelen" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-ontwikkelt-het-systeem-bewustzijn-van-impact-naar-invloed-op-andere-organisatieonderdelen">Hoe ontwikkelt het systeem-bewustzijn: van impact naar invloed op andere organisatieonderdelen?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe ontwikkelt het systeem-bewustzijn: van impact naar invloed op andere organisatieonderdelen?</p>
 <p>[Uitwerking volgt]</p>
-<p><strong>Waardencreatie: van enkele waarde naar meervoudige waarden</strong></p>
+<p><strong>Status:</strong> ⏳ Nog open</p>
+</section>
+<section id="hoe-groeit-het-bewustzijn-van-waardencreatie-van-enkele-waarde-naar-meervoudige-waarden" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-groeit-het-bewustzijn-van-waardencreatie-van-enkele-waarde-naar-meervoudige-waarden">Hoe groeit het bewustzijn van waardencreatie: van enkele waarde naar meervoudige waarden?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe groeit het bewustzijn van waardencreatie: van enkele waarde naar meervoudige waarden?</p>
 <p>[Uitwerking volgt]</p>
-<p><strong>Procesmining en digitale tools als nieuwe competentie</strong></p>
+<p><strong>Status:</strong> ⏳ Nog open</p>
+</section>
+<section id="welke-rol-spelen-procesmining-en-digitale-tools-in-deze-ontwikkeling" class="level4">
+<h4 class="anchored" data-anchor-id="welke-rol-spelen-procesmining-en-digitale-tools-in-deze-ontwikkeling">Welke rol spelen procesmining en digitale tools in deze ontwikkeling?</h4>
+<p><strong>Vraag uit outline:</strong> Welke rol spelen procesmining en digitale tools in deze ontwikkeling?</p>
 <p>[Uitwerking volgt]</p>
 <p><strong>Status:</strong> ⏳ Nog open</p>
 </section>
 </section>
 <section id="luk3-begeleiden" class="level3" data-number="2.1.3">
 <h3 data-number="2.1.3" class="anchored" data-anchor-id="luk3-begeleiden"><span class="header-section-number">2.1.3</span> LUK3: Begeleiden</h3>
-<section id="van-en-naar-2" class="level4">
-<h4 class="anchored" data-anchor-id="van-en-naar-2">Van en Naar</h4>
-<p><strong>Vraag uit outline:</strong> Van en Naar</p>
-<ul>
-<li><strong>Van:</strong> Ondersteunen bij verbeterprocessen (propedeuse)</li>
-<li><strong>Naar:</strong> (Bege)leiden in teamverband (AD-niveau)</li>
-</ul>
-<p><strong>Status:</strong> ⏸️ Gedeeltelijk beantwoord</p>
-</section>
-<section id="kernvraag-hoe-ontwikkelt-de-student-van-meedenken-naar-meesturen" class="level4">
-<h4 class="anchored" data-anchor-id="kernvraag-hoe-ontwikkelt-de-student-van-meedenken-naar-meesturen">Kernvraag: Hoe ontwikkelt de student van meedenken naar meesturen?</h4>
-<p><strong>Vraag uit outline:</strong> Hoe ontwikkelt de student van meedenken naar meesturen?</p>
+<section id="hoe-ontwikkelt-de-student-van-meedenken-naar-meesturen" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-ontwikkelt-de-student-van-meedenken-naar-meesturen">Hoe ontwikkelt de student van ‘meedenken’ naar ‘meesturen’?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe ontwikkelt de student van ‘meedenken’ naar ‘meesturen’?</p>
+<p>[Uitwerking volgt]</p>
 <p><strong>Status:</strong> ⏳ Nog open</p>
 </section>
-<section id="concrete-ontwikkeling-2" class="level4">
-<h4 class="anchored" data-anchor-id="concrete-ontwikkeling-2">Concrete ontwikkeling</h4>
-<p><strong>Vraag uit outline:</strong> Concrete ontwikkeling</p>
-<p><strong>Rol: van ondersteuner naar (bege)leider in team</strong></p>
+<section id="hoe-verandert-de-rol-van-ondersteuner-naar-begeleider-in-team" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-verandert-de-rol-van-ondersteuner-naar-begeleider-in-team">Hoe verandert de rol: van ondersteuner naar (bege)leider in team?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe verandert de rol: van ondersteuner naar (bege)leider in team?</p>
 <p>[Uitwerking volgt]</p>
-<p><strong>Stakeholder-management: van betrekken naar verbinden van binnen en buiten de afdeling</strong></p>
+<p><strong>Status:</strong> ⏳ Nog open</p>
+</section>
+<section id="hoe-ontwikkelt-stakeholder-management-van-betrekken-naar-verbinden-van-binnen-en-buiten-de-afdeling" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-ontwikkelt-stakeholder-management-van-betrekken-naar-verbinden-van-binnen-en-buiten-de-afdeling">Hoe ontwikkelt stakeholder-management: van betrekken naar verbinden van binnen en buiten de afdeling?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe ontwikkelt stakeholder-management: van betrekken naar verbinden van binnen en buiten de afdeling?</p>
 <p>[Uitwerking volgt]</p>
-<p><strong>Waardenspanning: van bekend met meervoudige waarden naar respecteren van verschillende belangen</strong></p>
+<p><strong>Status:</strong> ⏳ Nog open</p>
+</section>
+<section id="hoe-leert-de-student-omgaan-met-waardenspanning-van-kennen-naar-respecteren-van-verschillende-belangen" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-leert-de-student-omgaan-met-waardenspanning-van-kennen-naar-respecteren-van-verschillende-belangen">Hoe leert de student omgaan met waardenspanning: van kennen naar respecteren van verschillende belangen?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe leert de student omgaan met waardenspanning: van kennen naar respecteren van verschillende belangen?</p>
 <p>[Uitwerking volgt]</p>
 <p><strong>Status:</strong> ⏳ Nog open</p>
 </section>
 </section>
 <section id="luk4-evalueren" class="level3" data-number="2.1.4">
 <h3 data-number="2.1.4" class="anchored" data-anchor-id="luk4-evalueren"><span class="header-section-number">2.1.4</span> LUK4: Evalueren</h3>
-<section id="van-en-naar-3" class="level4">
-<h4 class="anchored" data-anchor-id="van-en-naar-3">Van en Naar</h4>
-<p><strong>Vraag uit outline:</strong> Van en Naar</p>
-<ul>
-<li><strong>Van:</strong> Kijken hoe het gaat (propedeuse)</li>
-<li><strong>Naar:</strong> Methodisch monitoren met consequentiebewustzijn (AD-niveau)</li>
-</ul>
-<p><strong>Status:</strong> ⏸️ Gedeeltelijk beantwoord</p>
-</section>
-<section id="kernvraag-hoe-leert-de-student-van-controleren-naar-evalueren" class="level4">
-<h4 class="anchored" data-anchor-id="kernvraag-hoe-leert-de-student-van-controleren-naar-evalueren">Kernvraag: Hoe leert de student van controleren naar evalueren?</h4>
-<p><strong>Vraag uit outline:</strong> Hoe leert de student van controleren naar evalueren?</p>
+<section id="hoe-leert-de-student-van-controleren-naar-evalueren" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-leert-de-student-van-controleren-naar-evalueren">Hoe leert de student van ‘controleren’ naar ‘evalueren’?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe leert de student van ‘controleren’ naar ‘evalueren’?</p>
+<p>[Uitwerking volgt]</p>
 <p><strong>Status:</strong> ⏳ Nog open</p>
 </section>
-<section id="concrete-ontwikkeling-3" class="level4">
-<h4 class="anchored" data-anchor-id="concrete-ontwikkeling-3">Concrete ontwikkeling</h4>
-<p><strong>Vraag uit outline:</strong> Concrete ontwikkeling</p>
-<p><strong>Van ad-hoc kijken naar methodisch monitoren</strong></p>
+<section id="hoe-ontwikkelt-methodisch-monitoren-van-ad-hoc-kijken-naar-systematisch-monitoren" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-ontwikkelt-methodisch-monitoren-van-ad-hoc-kijken-naar-systematisch-monitoren">Hoe ontwikkelt methodisch monitoren: van ad-hoc kijken naar systematisch monitoren?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe ontwikkelt methodisch monitoren: van ad-hoc kijken naar systematisch monitoren?</p>
 <p>[Uitwerking volgt]</p>
-<p><strong>Van checken naar bewustzijn van gevolgen</strong></p>
+<p><strong>Status:</strong> ⏳ Nog open</p>
+</section>
+<section id="hoe-groeit-het-consequentiebewustzijn-van-checken-naar-bewustzijn-van-gevolgen" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-groeit-het-consequentiebewustzijn-van-checken-naar-bewustzijn-van-gevolgen">Hoe groeit het consequentiebewustzijn: van checken naar bewustzijn van gevolgen?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe groeit het consequentiebewustzijn: van checken naar bewustzijn van gevolgen?</p>
 <p>[Uitwerking volgt]</p>
-<p><strong>Van evalueren naar vertalen van resultaten in concrete acties</strong></p>
+<p><strong>Status:</strong> ⏳ Nog open</p>
+</section>
+<section id="hoe-leert-de-student-resultaten-vertalen-in-concrete-acties" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-leert-de-student-resultaten-vertalen-in-concrete-acties">Hoe leert de student resultaten vertalen in concrete acties?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe leert de student resultaten vertalen in concrete acties?</p>
 <p>[Uitwerking volgt]</p>
 <p><strong>Status:</strong> ⏳ Nog open</p>
 </section>
 </section>
 <section id="luk5-professionaliseren" class="level3" data-number="2.1.5">
 <h3 data-number="2.1.5" class="anchored" data-anchor-id="luk5-professionaliseren"><span class="header-section-number">2.1.5</span> LUK5: Professionaliseren</h3>
-<section id="van-en-naar-4" class="level4">
-<h4 class="anchored" data-anchor-id="van-en-naar-4">Van en Naar</h4>
-<p><strong>Vraag uit outline:</strong> Van en Naar</p>
-<ul>
-<li><strong>Van:</strong> Beeld vormen van eigen persoonlijkheid (propedeuse)</li>
-<li><strong>Naar:</strong> Bewust zijn van rollen en invloed in beroepspraktijk (AD-niveau)</li>
-</ul>
-<p><strong>Status:</strong> ⏸️ Gedeeltelijk beantwoord</p>
-</section>
-<section id="kernvraag-wat-betekent-beginnende-professionele-identiteit" class="level4">
-<h4 class="anchored" data-anchor-id="kernvraag-wat-betekent-beginnende-professionele-identiteit">Kernvraag: Wat betekent beginnende professionele identiteit?</h4>
+<section id="wat-betekent-beginnende-professionele-identiteit" class="level4">
+<h4 class="anchored" data-anchor-id="wat-betekent-beginnende-professionele-identiteit">Wat betekent beginnende professionele identiteit?</h4>
 <p><strong>Vraag uit outline:</strong> Wat betekent beginnende professionele identiteit?</p>
-<p><strong>Status:</strong> ⏳ Nog open</p>
-</section>
-<section id="concrete-ontwikkeling-4" class="level4">
-<h4 class="anchored" data-anchor-id="concrete-ontwikkeling-4">Concrete ontwikkeling</h4>
-<p><strong>Vraag uit outline:</strong> Concrete ontwikkeling</p>
-<p><strong>Van bewustzijn van persoonlijkheid naar vormgeven van invloed daarvan</strong></p>
-<p>[Uitwerking volgt]</p>
-<p><strong>Van feedback ontvangen naar actief ophalen en integreren</strong></p>
-<p>[Uitwerking volgt]</p>
-<p><strong>Bewustzijn van bedrijfskundige rollen: adviseur, manager, onderzoeker</strong></p>
 <p>[Uitwerking volgt]</p>
 <p><strong>Status:</strong> ⏳ Nog open</p>
 </section>
+<section id="hoe-ontwikkelt-het-bewustzijn-van-persoonlijkheid-naar-vormgeven-van-invloed-daarvan" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-ontwikkelt-het-bewustzijn-van-persoonlijkheid-naar-vormgeven-van-invloed-daarvan">Hoe ontwikkelt het bewustzijn: van persoonlijkheid naar vormgeven van invloed daarvan?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe ontwikkelt het bewustzijn: van persoonlijkheid naar vormgeven van invloed daarvan?</p>
+<p>[Uitwerking volgt]</p>
+<p><strong>Status:</strong> ⏳ Nog open</p>
+</section>
+<section id="hoe-verandert-de-feedbackrelatie-van-ontvangen-naar-actief-ophalen-en-integreren" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-verandert-de-feedbackrelatie-van-ontvangen-naar-actief-ophalen-en-integreren">Hoe verandert de feedbackrelatie: van ontvangen naar actief ophalen en integreren?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe verandert de feedbackrelatie: van ontvangen naar actief ophalen en integreren?</p>
+<p>[Uitwerking volgt]</p>
+<p><strong>Status:</strong> ⏳ Nog open</p>
+</section>
+<section id="hoe-groeit-het-bewustzijn-van-bedrijfskundige-rollen-adviseur-manager-onderzoeker" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-groeit-het-bewustzijn-van-bedrijfskundige-rollen-adviseur-manager-onderzoeker">Hoe groeit het bewustzijn van bedrijfskundige rollen: adviseur, manager, onderzoeker?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe groeit het bewustzijn van bedrijfskundige rollen: adviseur, manager, onderzoeker?</p>
+<p>[Uitwerking volgt]</p>
+<p><strong>Status:</strong> ⏳ Nog open</p>
 </section>
 </section>
-<section id="integratievermogen-als-kerncompetentie" class="level2" data-number="2.2">
-<h2 data-number="2.2" class="anchored" data-anchor-id="integratievermogen-als-kerncompetentie"><span class="header-section-number">2.2</span> Integratievermogen als kerncompetentie</h2>
-<section id="wat-vraagt-het-integreren-van-de-vijf-luks-in-de-praktijk" class="level3" data-number="2.2.1">
-<h3 data-number="2.2.1" class="anchored" data-anchor-id="wat-vraagt-het-integreren-van-de-vijf-luks-in-de-praktijk"><span class="header-section-number">2.2.1</span> Wat vraagt het integreren van de vijf LUKs in de praktijk?</h3>
+</section>
+<section id="vier-kernthemas-in-ontwikkeling" class="level2" data-number="2.2">
+<h2 data-number="2.2" class="anchored" data-anchor-id="vier-kernthemas-in-ontwikkeling"><span class="header-section-number">2.2</span> Vier kernthema’s in ontwikkeling</h2>
+<section id="integratievermogen" class="level3" data-number="2.2.1">
+<h3 data-number="2.2.1" class="anchored" data-anchor-id="integratievermogen"><span class="header-section-number">2.2.1</span> Integratievermogen</h3>
+<section id="wat-vraagt-het-integreren-van-de-vijf-luks-in-de-praktijk" class="level4">
+<h4 class="anchored" data-anchor-id="wat-vraagt-het-integreren-van-de-vijf-luks-in-de-praktijk">Wat vraagt het integreren van de vijf LUKs in de praktijk?</h4>
 <p><strong>Vraag uit outline:</strong> Wat vraagt het integreren van de vijf LUKs in de praktijk?</p>
 <p>[Uitwerking volgt]</p>
 <p><strong>Status:</strong> ⏳ Nog open</p>
 </section>
-<section id="hoe-leren-studenten-de-vier-vakgebieden-te-verbinden" class="level3" data-number="2.2.2">
-<h3 data-number="2.2.2" class="anchored" data-anchor-id="hoe-leren-studenten-de-vier-vakgebieden-te-verbinden"><span class="header-section-number">2.2.2</span> Hoe leren studenten de vier vakgebieden te verbinden?</h3>
-<p><strong>Vraag uit outline:</strong> Hoe leren studenten de vier vakgebieden te verbinden?</p>
+<section id="hoe-leren-studenten-de-vier-vakgebieden-te-verbinden-strategie-operations-informatiemanagement-organisatiegedrag" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-leren-studenten-de-vier-vakgebieden-te-verbinden-strategie-operations-informatiemanagement-organisatiegedrag">Hoe leren studenten de vier vakgebieden te verbinden (Strategie, Operations, Informatiemanagement, Organisatiegedrag)?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe leren studenten de vier vakgebieden te verbinden (Strategie, Operations, Informatiemanagement, Organisatiegedrag)?</p>
+<p>[Uitwerking volgt]</p>
+<p><strong>Status:</strong> ⏳ Nog open</p>
+</section>
+<section id="hoe-ontwikkelen-studenten-van-kennis-over-naar-kunnen-integreren" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-ontwikkelen-studenten-van-kennis-over-naar-kunnen-integreren">Hoe ontwikkelen studenten van ‘kennis over’ naar ‘kunnen integreren’?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe ontwikkelen studenten van ‘kennis over’ naar ‘kunnen integreren’?</p>
+<p>[Uitwerking volgt]</p>
+<p><strong>Status:</strong> ⏳ Nog open</p>
+</section>
+</section>
+<section id="onderzoekend-vermogen" class="level3" data-number="2.2.2">
+<h3 data-number="2.2.2" class="anchored" data-anchor-id="onderzoekend-vermogen"><span class="header-section-number">2.2.2</span> Onderzoekend vermogen</h3>
+<section id="hoe-ontwikkelen-studenten-onderzoeksvaardigheden-in-het-c-cluster" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-ontwikkelen-studenten-onderzoeksvaardigheden-in-het-c-cluster">Hoe ontwikkelen studenten onderzoeksvaardigheden in het C-cluster?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe ontwikkelen studenten onderzoeksvaardigheden in het C-cluster?</p>
+<p>Healey <span class="citation" data-cites="healey_linking_2005">(<a href="../references.html#ref-healey_linking_2005" role="doc-biblioref">2005</a>)</span> onderscheidt vier manieren waarop onderwijs en onderzoek met elkaar verbonden kunnen worden (zie <a href="#fig-healey-nexus" class="quarto-xref">Figure&nbsp;<span>2.1</span></a>). In het C-cluster verschuift de onderzoeksleerlijn fundamenteel, met de nadruk op <strong>research-oriented</strong> onderwijs.</p>
+<div id="fig-healey-nexus" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-healey-nexus-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="../images/research-teaching.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-healey-nexus-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2.1: Healey’s research-teaching nexus model <span class="citation" data-cites="healey_linking_2005">(<a href="../references.html#ref-healey_linking_2005" role="doc-biblioref">Healey 2005</a>)</span>
+</figcaption>
+</figure>
+</div>
+<p><strong>Verschuiving in onderzoeksbenadering:</strong></p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 46%">
+<col style="width: 33%">
+<col style="width: 19%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Propedeuse (A/B-cluster)</th>
+<th>C-cluster (nadruk)</th>
+<th>D-cluster</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Research-led</strong>: Docenten onderwijzen vakgebied, studenten leren over onderzoeksresultaten</td>
+<td><strong>Research-oriented</strong>: Studenten leren onderzoeksprocessen en kennisconstructie</td>
+<td><strong>Research-based</strong>: Studenten voeren zelf inquiry-based learning uit</td>
+</tr>
+<tr class="even">
+<td><strong>Research-tutored</strong>: Studenten bespreken en schrijven over onderzoek van anderen</td>
+<td>Voorbereiding op research-based</td>
+<td><strong>Research-based</strong>: Volledig zelfstandig onderzoek</td>
+</tr>
+<tr class="odd">
+<td><strong>Studenten als audience</strong></td>
+<td><strong>Studenten als participanten (leren)</strong></td>
+<td><strong>Studenten als participanten (doen)</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>De nadruk op Research-oriented in het C-cluster:</strong></p>
+<p>Het C-cluster focust primair op <strong>research-oriented</strong> onderwijs: studenten leren onderzoeksprocessen en kennisconstructie begrijpen. Dit bereidt hen voor op <strong>research-based</strong> onderwijs in het D-cluster, waar ze volledig zelfstandig inquiry-based onderzoek uitvoeren.</p>
+<p><strong>Wat betekent research-oriented in de praktijk?</strong></p>
+<p>In research-oriented onderwijs (C-cluster) leren studenten <strong>hoe onderzoek werkt</strong>, zonder zelf volledig zelfstandig onderzoek uit te voeren. De focus ligt op:</p>
+<ol type="1">
+<li><strong>Begrijpen hoe kennis tot stand komt</strong>, niet alleen wat de kennis is</li>
+<li><strong>Onderzoeksprocessen en -methoden</strong> leren kennen en toepassen (met begeleiding)</li>
+<li><strong>Kennisconstructie</strong> observeren: hoe ontstaat wetenschappelijke kennis?</li>
+<li><strong>Zelf keuzes maken</strong> in theorieën en methoden, maar binnen gestructureerde opdrachten</li>
+<li><strong>Reflecteren op onderzoeksprocessen</strong>, niet alleen op uitkomsten</li>
+</ol>
+<p>Dit verschilt van <strong>research-based</strong> (D-cluster), waar studenten volledig zelfstandig inquiry-based onderzoek uitvoeren in authentieke praktijksituaties.</p>
+<p><strong>De rol van desk research:</strong></p>
+<p>Desk research in het C-cluster fungeert als voorbereiding op praktijkonderzoek in het D-cluster. Studenten leren literatuur te zoeken, te selecteren, te analyseren en te synthetiseren - essentiële vaardigheden voor de onderzoekende professional. Dit past bij research-oriented: het gaat om het begrijpen en toepassen van onderzoeksmethoden in een beschermde leeromgeving.</p>
+<p><strong>Status:</strong> ⏸️ Gedeeltelijk beantwoord met Healey (2005) framework <strong>Nog uit te werken:</strong> Concrete ontwikkellijnen per type onderzoeksvaardigheid</p>
+</section>
+<section id="welke-rol-speelt-desk-research-in-de-voorbereiding-op-praktijkonderzoek" class="level4">
+<h4 class="anchored" data-anchor-id="welke-rol-speelt-desk-research-in-de-voorbereiding-op-praktijkonderzoek">Welke rol speelt desk research in de voorbereiding op praktijkonderzoek?</h4>
+<p><strong>Vraag uit outline:</strong> Welke rol speelt desk research in de voorbereiding op praktijkonderzoek?</p>
+<p>Desk research in het C-cluster vormt de brug tussen <strong>research-tutored</strong> (propedeuse) en <strong>research-based</strong> (D-cluster) onderwijs <span class="citation" data-cites="healey_linking_2005">(<a href="../references.html#ref-healey_linking_2005" role="doc-biblioref">Healey 2005</a>)</span>. Het is de fase waarin studenten van consumenten van onderzoek naar producenten van onderzoek evolueren.</p>
+<p><strong>Functie van desk research als voorbereiding:</strong></p>
+<ol type="1">
+<li><strong>Literatuurvaardigheden ontwikkelen</strong>: Zoeken, selecteren en beoordelen van wetenschappelijke bronnen</li>
+<li><strong>Theoretische onderbouwing</strong>: Leren relevante theorieën te selecteren voor bedrijfskundige vraagstukken</li>
+<li><strong>Methodische voorbereiding</strong>: Begrijpen hoe onderzoek wordt opgezet en uitgevoerd</li>
+<li><strong>Kritisch lezen</strong>: Onderzoeksresultaten van anderen analyseren en beoordelen</li>
+<li><strong>Synthetiseren</strong>: Meerdere bronnen integreren tot een samenhangend geheel</li>
+</ol>
+<p><strong>Van desk research naar praktijkonderzoek:</strong></p>
+<p>In het C-cluster leren studenten desk research uit te voeren binnen een veilige, begeleide omgeving. Deze vaardigheden worden in het D-cluster toegepast in authentieke praktijksituaties, waar desk research onderdeel wordt van een groter praktijkonderzoek met echte stakeholders en consequenties.</p>
+<p><strong>De overgang:</strong></p>
 <ul>
-<li>Strategie</li>
-<li>Operations</li>
-<li>Informatiemanagement</li>
-<li>Organisatiegedrag</li>
+<li><strong>C-cluster</strong>: Desk research als doel op zich - studenten oefenen met onderzoekend literatuurgebruik</li>
+<li><strong>D-cluster</strong>: Desk research als middel - literatuur dient om praktijkvraagstukken te analyseren en oplossingen te onderbouwen</li>
 </ul>
+<p><strong>Status:</strong> ✅ Beantwoord met Healey (2005) framework</p>
+</section>
+<section id="hoe-leren-studenten-bedrijfskundige-paradigmas-te-verbinden-met-wetenschappelijke-methoden" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-leren-studenten-bedrijfskundige-paradigmas-te-verbinden-met-wetenschappelijke-methoden">Hoe leren studenten bedrijfskundige paradigma’s te verbinden met wetenschappelijke methoden?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe leren studenten bedrijfskundige paradigma’s (zoals Lean, Agile, e.a.) te verbinden met wetenschappelijke methoden?</p>
 <p>[Uitwerking volgt]</p>
 <p><strong>Status:</strong> ⏳ Nog open</p>
 </section>
-<section id="van-kennis-over-naar-kunnen-integreren" class="level3" data-number="2.2.3">
-<h3 data-number="2.2.3" class="anchored" data-anchor-id="van-kennis-over-naar-kunnen-integreren"><span class="header-section-number">2.2.3</span> Van ‘kennis over’ naar ‘kunnen integreren’</h3>
-<p><strong>Vraag uit outline:</strong> Van ‘kennis over’ naar ‘kunnen integreren’</p>
+</section>
+<section id="zelfstandigheid" class="level3" data-number="2.2.3">
+<h3 data-number="2.2.3" class="anchored" data-anchor-id="zelfstandigheid"><span class="header-section-number">2.2.3</span> Zelfstandigheid</h3>
+<section id="hoe-ontwikkelt-de-zelfstandigheid-van-studenten-in-het-c-cluster" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-ontwikkelt-de-zelfstandigheid-van-studenten-in-het-c-cluster">Hoe ontwikkelt de zelfstandigheid van studenten in het C-cluster?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe ontwikkelt de zelfstandigheid van studenten in het C-cluster?</p>
+<p>[Uitwerking volgt]</p>
+<p><strong>Status:</strong> ⏳ Nog open</p>
+</section>
+<section id="wanneer-bieden-we-structuur-wanneer-laten-we-los" class="level4">
+<h4 class="anchored" data-anchor-id="wanneer-bieden-we-structuur-wanneer-laten-we-los">Wanneer bieden we structuur, wanneer laten we los?</h4>
+<p><strong>Vraag uit outline:</strong> Wanneer bieden we structuur, wanneer laten we los?</p>
+<p>[Uitwerking volgt]</p>
+<p><strong>Status:</strong> ⏳ Nog open</p>
+</section>
+<section id="hoe-leren-studenten-theoretische-keuzes-zelfstandig-te-onderbouwen" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-leren-studenten-theoretische-keuzes-zelfstandig-te-onderbouwen">Hoe leren studenten theoretische keuzes zelfstandig te onderbouwen?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe leren studenten theoretische keuzes zelfstandig te onderbouwen?</p>
 <p>[Uitwerking volgt]</p>
 <p><strong>Status:</strong> ⏳ Nog open</p>
 </section>
 </section>
-<section id="professionele-identiteitsontwikkeling" class="level2" data-number="2.3">
-<h2 data-number="2.3" class="anchored" data-anchor-id="professionele-identiteitsontwikkeling"><span class="header-section-number">2.3</span> Professionele identiteitsontwikkeling</h2>
-<section id="wat-is-beginnende-bedrijfskundige-identiteit" class="level3" data-number="2.3.1">
-<h3 data-number="2.3.1" class="anchored" data-anchor-id="wat-is-beginnende-bedrijfskundige-identiteit"><span class="header-section-number">2.3.1</span> Wat is beginnende bedrijfskundige identiteit?</h3>
+<section id="professionele-identiteit" class="level3" data-number="2.2.4">
+<h3 data-number="2.2.4" class="anchored" data-anchor-id="professionele-identiteit"><span class="header-section-number">2.2.4</span> Professionele identiteit</h3>
+<section id="wat-is-beginnende-bedrijfskundige-identiteit" class="level4">
+<h4 class="anchored" data-anchor-id="wat-is-beginnende-bedrijfskundige-identiteit">Wat is beginnende bedrijfskundige identiteit?</h4>
 <p><strong>Vraag uit outline:</strong> Wat is beginnende bedrijfskundige identiteit?</p>
 <p>[Uitwerking volgt]</p>
 <p><strong>Status:</strong> ⏳ Nog open</p>
 </section>
-<section id="bewustzijn-van-rollen-wanneer-ben-je-adviseur-manager-of-onderzoeker" class="level3" data-number="2.3.2">
-<h3 data-number="2.3.2" class="anchored" data-anchor-id="bewustzijn-van-rollen-wanneer-ben-je-adviseur-manager-of-onderzoeker"><span class="header-section-number">2.3.2</span> Bewustzijn van rollen: wanneer ben je adviseur, manager of onderzoeker?</h3>
-<p><strong>Vraag uit outline:</strong> Bewustzijn van rollen: wanneer ben je adviseur, manager of onderzoeker?</p>
+<section id="hoe-groeit-het-bewustzijn-van-rollen-wanneer-ben-je-adviseur-manager-of-onderzoeker" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-groeit-het-bewustzijn-van-rollen-wanneer-ben-je-adviseur-manager-of-onderzoeker">Hoe groeit het bewustzijn van rollen: wanneer ben je adviseur, manager of onderzoeker?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe groeit het bewustzijn van rollen: wanneer ben je adviseur, manager of onderzoeker?</p>
 <p>[Uitwerking volgt]</p>
 <p><strong>Status:</strong> ⏳ Nog open</p>
 </section>
-<section id="het-moreel-kompas-in-ontwikkeling-van-kennen-naar-toepassen" class="level3" data-number="2.3.3">
-<h3 data-number="2.3.3" class="anchored" data-anchor-id="het-moreel-kompas-in-ontwikkeling-van-kennen-naar-toepassen"><span class="header-section-number">2.3.3</span> Het moreel kompas in ontwikkeling: van kennen naar toepassen</h3>
-<p><strong>Vraag uit outline:</strong> Het moreel kompas in ontwikkeling: van kennen naar toepassen</p>
+<section id="hoe-ontwikkelt-het-moreel-kompas-van-kennen-naar-toepassen" class="level4">
+<h4 class="anchored" data-anchor-id="hoe-ontwikkelt-het-moreel-kompas-van-kennen-naar-toepassen">Hoe ontwikkelt het moreel kompas: van kennen naar toepassen?</h4>
+<p><strong>Vraag uit outline:</strong> Hoe ontwikkelt het moreel kompas: van kennen naar toepassen?</p>
 <p>[Uitwerking volgt]</p>
 <p><strong>Status:</strong> ⏳ Nog open</p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-healey_linking_2005" class="csl-entry" role="listitem">
+Healey, Mick. 2005. <span>“Linking Research and Teaching: Exploring Disciplinary Spaces and the Role of Inquiry-Based Learning.”</span> <em>Reshaping the University</em>.
+</div>
+</div>
+</section>
 </section>
 </section>
 

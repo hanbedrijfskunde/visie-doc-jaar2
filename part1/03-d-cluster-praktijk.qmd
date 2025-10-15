@@ -1,16 +1,26 @@
 # D-cluster: Toepassing in Authentieke Praktijk
 
-## Van beschermde leeromgeving naar bedrijfspraktijk
+## De bedrijfskundige handelingscyclus in de praktijk
 
-### Welke competenties uit C-cluster worden het meest op de proef gesteld?
+### Toepassing van LUK1-5 in stageopdrachten
 
-**Vraag uit outline:** Welke competenties uit C-cluster worden het meest op de proef gesteld?
+#### Hoe worden de vijf leeruitkomsten geïntegreerd toegepast in de stagepraktijk?
+
+**Vraag uit outline:** Hoe worden de vijf leeruitkomsten geïntegreerd toegepast in de stagepraktijk?
 
 [Uitwerking volgt]
 
 **Status:** ⏳ Nog open
 
-### Wat is het verschil tussen 'oefenen in onderwijs' en 'toepassen in praktijk'?
+#### Welke competenties uit het C-cluster worden het meest op de proef gesteld?
+
+**Vraag uit outline:** Welke competenties uit het C-cluster worden het meest op de proef gesteld?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+#### Wat is het verschil tussen 'oefenen in onderwijs' en 'toepassen in praktijk'?
 
 **Vraag uit outline:** Wat is het verschil tussen 'oefenen in onderwijs' en 'toepassen in praktijk'?
 
@@ -18,17 +28,63 @@
 
 **Status:** ⏳ Nog open
 
-### Wat kan een student op dit niveau (nog) niet?
+### Realistische verwachtingen
 
-**Vraag uit outline:** Wat kan een student op dit niveau (nog) niet? (Realistische verwachtingen)
+#### Wat kan een student op dit niveau (nog) niet?
+
+**Vraag uit outline:** Wat kan een student op dit niveau (nog) niet?
 
 [Uitwerking volgt]
 
 **Status:** ⏳ Nog open
 
-## De onderzoekende bedrijfskundige
+#### Welk niveau van complexiteit is passend tussen propedeuse en AD?
 
-### Wat betekent onderzoekend in de praktijk staan op dit niveau?
+**Vraag uit outline:** Welk niveau van complexiteit is passend tussen propedeuse en AD?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+#### Hoe voorkomen we onder- en overbelasting?
+
+**Vraag uit outline:** Hoe voorkomen we onder- en overbelasting?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+## Vier kernthema's in de praktijk
+
+### Integratievermogen in authentieke context
+
+#### Hoe passen studenten de integratie van LUKs en vakgebieden toe onder complexe, authentieke omstandigheden?
+
+**Vraag uit outline:** Hoe passen studenten de integratie van LUKs en vakgebieden toe onder complexe, authentieke omstandigheden?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+#### Welke rol speelt de organisatiecontext in het verbinden van verschillende domeinen?
+
+**Vraag uit outline:** Welke rol speelt de organisatiecontext in het verbinden van verschillende domeinen?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+#### Hoe gaan studenten om met tegenstrijdige belangen en prioriteiten in de praktijk?
+
+**Vraag uit outline:** Hoe gaan studenten om met tegenstrijdige belangen en prioriteiten in de praktijk?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Onderzoekend vermogen in de stagepraktijk
+
+#### Wat betekent onderzoekend in de praktijk staan op dit niveau?
 
 **Vraag uit outline:** Wat betekent onderzoekend in de praktijk staan op dit niveau?
 
@@ -48,11 +104,10 @@ De student leert onderzoekend te opereren door:
 4. **Evalueren**: Kritisch reflecteren op proces en resultaat
 
 **Status:** ✅ Beantwoord met Healey (2005) framework
-**Nog uit te werken:** Concrete voorbeelden van onderzoeksactiviteiten in stagepraktijk
 
-### De balans tussen 'meedoen' en 'onderzoeken'
+#### Wat is de balans tussen 'meedoen' en 'onderzoeken' (70-30? 60-40?)?
 
-**Vraag uit outline:** De balans tussen 'meedoen' en 'onderzoeken'
+**Vraag uit outline:** Wat is de balans tussen 'meedoen' en 'onderzoeken' (70-30? 60-40?)?
 
 De stage combineert drie rollen die de bedrijfskundige professional kenmerken:
 
@@ -64,15 +119,32 @@ De stage combineert drie rollen die de bedrijfskundige professional kenmerken:
 
 Deze verhouding weerspiegelt het 'tussen-niveau': meer onderzoekend dan in propedeuse (waar vooral uitvoeren centraal staat), maar nog niet de onderzoeksdiepgang van AD-afstuderen (waar onderzoek dominant is).
 
-**Integratie van rollen:**
+**Status:** ✅ Beantwoord
+**Nog uit te werken:** Empirische onderbouwing van deze verdeling
 
-Het onderzoek staat niet los van het werk, maar is geïntegreerd in de stageopdracht. De student onderzoekt vanuit de praktijk, niet erover. Dit sluit aan bij de bedrijfskundige handelingscyclus waarbij onderzoekend handelen essentieel is voor:
+#### Hoe wordt praktijkonderzoek integraal onderdeel van de bedrijfskundige handelingscyclus?
 
-- Gedegen analyse (LUK1)
-- Evidence-based ontwerp (LUK2)
-- Datagedreven evaluatie (LUK4)
+**Vraag uit outline:** Hoe wordt praktijkonderzoek integraal onderdeel van de bedrijfskundige handelingscyclus?
 
-**Wat is passend praktijkonderzoek op dit niveau?**
+Het praktijkonderzoek is geen separaat onderdeel, maar verweven met alle fasen van de bedrijfskundige handelingscyclus:
+
+**LUK1 (Analyseren)**: Onderzoekend signaleren en diagnosticeren met data
+
+**LUK2 (Ontwerpen)**: Evidence-based ontwikkelen van oplossingen
+
+**LUK3 (Begeleiden)**: Datageïnformeerd sturen van verandering
+
+**LUK4 (Evalueren)**: Systematisch monitoren en meten van resultaten
+
+**LUK5 (Professionaliseren)**: Reflecteren op eigen onderzoekend handelen
+
+Deze integratie bereidt studenten voor op de rol van **onderzoekend professional**: iemand die systematisch reflecteert op de praktijk en handelt op basis van informatie, niet intuïtie alleen.
+
+**Status:** ✅ Beantwoord
+
+#### Welk niveau van methodische diepgang is realistisch (zonder AD-diepgang te verwachten)?
+
+**Vraag uit outline:** Welk niveau van methodische diepgang is realistisch (zonder AD-diepgang te verwachten)?
 
 Het onderzoeksniveau ligt tussen **research-tutored** (propedeuse) en volledig **research-based** (AD-afstuderen):
 
@@ -96,77 +168,119 @@ AD-studenten die afstuderen in het D-cluster voeren wel volledig research-based 
 - Meer methodologische verantwoording
 
 **Status:** ✅ Beantwoord
-**Nog uit te werken:** Concrete criteria voor beoordeling van onderzoekskwaliteit
 
-### Aansluiting bij de bedrijfskundige handelingscyclus: praktijkonderzoek als integraal onderdeel
+### Zelfstandigheid in de beroepspraktijk
 
-**Vraag uit outline:** Aansluiting bij de bedrijfskundige handelingscyclus: praktijkonderzoek als integraal onderdeel
+#### Hoe maakt de student de stap van begeleide opdrachten naar eigen verantwoordelijkheid?
 
-Het praktijkonderzoek is geen separaat onderdeel, maar verweven met alle fasen van de bedrijfskundige handelingscyclus:
-
-**LUK1 (Analyseren)**: Onderzoekend signaleren en diagnosticeren met data
-
-**LUK2 (Ontwerpen)**: Evidence-based ontwikkelen van oplossingen
-
-**LUK3 (Begeleiden)**: Datageïnformeerd sturen van verandering
-
-**LUK4 (Evalueren)**: Systematisch monitoren en meten van resultaten
-
-**LUK5 (Professionaliseren)**: Reflecteren op eigen onderzoekend handelen
-
-Deze integratie bereidt studenten voor op de rol van **onderzoekend professional**: iemand die systematisch reflecteert op de praktijk en handelt op basis van informatie, niet intuïtie alleen.
-
-**Status:** ✅ Beantwoord
-**Nog uit te werken:** Concrete voorbeelden per LUK van hoe onderzoek geïntegreerd wordt
-
-## Zelfstandigheid en oordeelsvorming
-
-### De stap in zelfsturing: van begeleide opdrachten naar eigen verantwoordelijkheid
-
-**Vraag uit outline:** De stap in zelfsturing: van begeleide opdrachten naar eigen verantwoordelijkheid
+**Vraag uit outline:** Hoe maakt de student de stap van begeleide opdrachten naar eigen verantwoordelijkheid?
 
 [Uitwerking volgt]
 
 **Status:** ⏳ Nog open
 
-### Professioneel oordeel in complexe situaties ontwikkelen
+#### Hoe ontwikkelt professioneel oordeel in complexe situaties?
 
-**Vraag uit outline:** Professioneel oordeel in complexe situaties ontwikkelen
-
-[Uitwerking volgt]
-
-**Status:** ⏳ Nog open
-
-### Het moreel kompas in authentieke dilemma's
-
-**Vraag uit outline:** Het moreel kompas in authentieke dilemma's
+**Vraag uit outline:** Hoe ontwikkelt professioneel oordeel in complexe situaties?
 
 [Uitwerking volgt]
 
 **Status:** ⏳ Nog open
 
-## Verdieping van professionele identiteit
+#### Hoe past de student het moreel kompas toe in authentieke dilemma's?
 
-### Ervaren van bedrijfskundige rollen in de praktijk
-
-**Vraag uit outline:** Ervaren van bedrijfskundige rollen in de praktijk
+**Vraag uit outline:** Hoe past de student het moreel kompas toe in authentieke dilemma's?
 
 [Uitwerking volgt]
 
 **Status:** ⏳ Nog open
 
-### Van 'beeld vormen' naar 'ervaren en reflecteren'
+#### Welke ondersteuning is nodig bij deze toegenomen zelfstandigheid?
 
-**Vraag uit outline:** Van 'beeld vormen' naar 'ervaren en reflecteren'
+**Vraag uit outline:** Welke ondersteuning is nodig bij deze toegenomen zelfstandigheid?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Professionele identiteit door praktijkervaring
+
+#### Hoe ervaren studenten bedrijfskundige rollen (adviseur, manager, onderzoeker) in de praktijk?
+
+**Vraag uit outline:** Hoe ervaren studenten bedrijfskundige rollen (adviseur, manager, onderzoeker) in de praktijk?
 
 [Uitwerking volgt]
 
 **Status:** ⏳ Nog open
 
-### Feedback uit de praktijk als katalysator voor ontwikkeling
+#### Hoe verloopt de transitie van 'beeld vormen' naar 'ervaren en reflecteren'?
 
-**Vraag uit outline:** Feedback uit de praktijk als katalysator voor ontwikkeling
+**Vraag uit outline:** Hoe verloopt de transitie van 'beeld vormen' naar 'ervaren en reflecteren'?
 
 [Uitwerking volgt]
 
 **Status:** ⏳ Nog open
+
+#### Welke rol speelt feedback uit de praktijk als katalysator voor ontwikkeling?
+
+**Vraag uit outline:** Welke rol speelt feedback uit de praktijk als katalysator voor ontwikkeling?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+#### Hoe verdiept de praktijkervaring het professioneel zelfbeeld?
+
+**Vraag uit outline:** Hoe verdiept de praktijkervaring het professioneel zelfbeeld?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+## De unieke context van het D-cluster
+
+### Wat zijn de specifieke kenmerken van stage als leeromgeving?
+
+**Vraag uit outline:** Wat zijn de specifieke kenmerken van stage als leeromgeving?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Hoe functioneert de driehoek student-stagebedrijf-opleiding?
+
+**Vraag uit outline:** Hoe functioneert de driehoek student-stagebedrijf-opleiding?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Welke rol speelt de studiedag in het verbinden van praktijk en theorie?
+
+**Vraag uit outline:** Welke rol speelt de studiedag in het verbinden van praktijk en theorie?
+
+De studiedag functioneert als een platform waar **peer learning, uitwisseling en learnersourcing** samenkomen. Het biedt een unieke mogelijkheid voor studenten om ervaringen uit verschillende stagecontexten te delen, van elkaar te leren en elkaar te ondersteunen bij uitdagingen en dilemma's.
+
+**Waarom is de studiedag cruciaal?**
+
+De studiedag verbindt individuele stage-ervaringen met het collectieve leerproces. Het is het moment waar de driehoek student-stagebedrijf-opleiding actief samenkomt: de opleiding faciliteert de uitwisseling tussen studenten die allen in verschillende organisatiecontexten werken.
+
+**Learnersourcing potentie van het D-cluster [@singh_learnersourcing_2022; @khosravi_learnersourcing_2023]:**
+
+Het D-cluster heeft bijzondere potentie voor learnersourcing omdat studenten:
+
+1. **Authentieke praktijkervaringen** opdoen die waardevol zijn voor toekomstige studenten
+2. **In teams werken** met peers en docent-onderzoekers (co-creatie van kennis)
+3. **Best practices en inzichten** kunnen delen uit verschillende stagecontexten
+4. **Praktijkgericht onderzoek** doen dat bijdraagt aan een kennisbank voor de opleiding
+5. **Reflecties en leerervaringen** kunnen documenteren die anderen helpen bij voorbereiding op stage
+
+**Functies van de studiedag:**
+
+De studiedag vervult meerdere essentiële functies voor de ontwikkeling van de onderzoekende professional: onderzoeksbegeleiding en methodische ondersteuning, reflectie op stage-ervaringen, peer learning en uitwisseling, en theoretische verdieping door praktijkervaringen te koppelen aan academische concepten.
+
+**Ontwerpprincipe: AI-enhanced peer learning:**
+
+AI kan peer learning schaalbaar en effectief maken [@topping_enhancing_2025]. Learning analytics [@lahza_analytics_2023] bieden inzicht in leertactieken en -strategieën, wat zowel studenten als docenten helpt bij het optimaliseren van het leerproces. Dit is een ontwerpprincipe, geen concrete tool: de focus ligt op hoe technologie het pedagogisch proces kan ondersteunen.
+
+**Status:** ✅ Beantwoord met learnersourcing framework

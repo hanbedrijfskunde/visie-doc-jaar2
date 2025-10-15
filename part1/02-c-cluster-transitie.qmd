@@ -1,37 +1,36 @@
 # C-cluster: Transitie van Uitvoeren naar Ontwerpen
 
-## Ontwikkelingslogica per leeruitkomst
+## De bedrijfskundige handelingscyclus: ontwikkeling per leeruitkomst
 
 ### LUK1: Analyseren en diagnosticeren
 
-#### Van en Naar
+#### Hoe ontwikkelt de student van 'toepassen van gegeven model' (propedeuse) naar 'selecteren van relevante theorieën' (AD-niveau)?
 
-**Vraag uit outline:** Van en Naar
+**Vraag uit outline:** Hoe ontwikkelt de student van 'toepassen van gegeven model' (propedeuse) naar 'selecteren van relevante theorieën' (AD-niveau)?
 
-- **Van:** Gestructureerde diagnose met gegeven model (propedeuse)
-- **Naar:** Zelfstandig signaleren van knelpunten met zelf te selecteren theorieën (AD-niveau)
-
-**Status:** ⏸️ Gedeeltelijk beantwoord
-
-#### Kernvraag: Hoe ontwikkelt de student van 'toepassen' naar 'selecteren'?
-
-**Vraag uit outline:** Hoe ontwikkelt de student van 'toepassen' naar 'selecteren'?
+[Uitwerking volgt]
 
 **Status:** ⏳ Nog open
 
-#### Concrete ontwikkeling
+#### Hoe groeit het stakeholder-bewustzijn van vooral intern naar intern én extern?
 
-**Vraag uit outline:** Concrete ontwikkeling
-
-**Stakeholder-bewustzijn: van vooral intern naar intern én extern**
+**Vraag uit outline:** Hoe groeit het stakeholder-bewustzijn van vooral intern naar intern én extern?
 
 [Uitwerking volgt]
 
-**Theoretische onderbouwing: van aangereikte modellen naar zelf selecteren relevante theorieën**
+**Status:** ⏳ Nog open
+
+#### Hoe neemt de complexiteit van vraagstukken toe: van eenvoudig naar meer variabelen?
+
+**Vraag uit outline:** Hoe neemt de complexiteit van vraagstukken toe: van eenvoudig naar meer variabelen?
 
 [Uitwerking volgt]
 
-**Complexiteit: van eenvoudige naar eenvoudige bedrijfskundige vraagstukken met meer variabelen**
+**Status:** ⏳ Nog open
+
+#### Hoe ontwikkelt de theoretische onderbouwing: van aangereikte modellen naar zelf selecteren?
+
+**Vraag uit outline:** Hoe ontwikkelt de theoretische onderbouwing: van aangereikte modellen naar zelf selecteren?
 
 [Uitwerking volgt]
 
@@ -39,34 +38,33 @@
 
 ### LUK2: (Her)ontwerpen
 
-#### Van en Naar
-
-**Vraag uit outline:** Van en Naar
-
-- **Van:** Verbetervoorstel voor eenvoudig proces (propedeuse)
-- **Naar:** Strategisch passend ontwerp op tactisch/operationeel niveau (AD-niveau)
-
-**Status:** ⏸️ Gedeeltelijk beantwoord
-
-#### Kernvraag: Hoe leert de student de verbinding tussen operatie en strategie te maken?
+#### Hoe leert de student de verbinding tussen operatie en strategie te maken?
 
 **Vraag uit outline:** Hoe leert de student de verbinding tussen operatie en strategie te maken?
 
+[Uitwerking volgt]
+
 **Status:** ⏳ Nog open
 
-#### Concrete ontwikkeling
+#### Hoe ontwikkelt het systeem-bewustzijn: van impact naar invloed op andere organisatieonderdelen?
 
-**Vraag uit outline:** Concrete ontwikkeling
-
-**Systeem-bewustzijn: van bewust van impact naar bewust van invloed op andere organisatieonderdelen**
+**Vraag uit outline:** Hoe ontwikkelt het systeem-bewustzijn: van impact naar invloed op andere organisatieonderdelen?
 
 [Uitwerking volgt]
 
-**Waardencreatie: van enkele waarde naar meervoudige waarden**
+**Status:** ⏳ Nog open
+
+#### Hoe groeit het bewustzijn van waardencreatie: van enkele waarde naar meervoudige waarden?
+
+**Vraag uit outline:** Hoe groeit het bewustzijn van waardencreatie: van enkele waarde naar meervoudige waarden?
 
 [Uitwerking volgt]
 
-**Procesmining en digitale tools als nieuwe competentie**
+**Status:** ⏳ Nog open
+
+#### Welke rol spelen procesmining en digitale tools in deze ontwikkeling?
+
+**Vraag uit outline:** Welke rol spelen procesmining en digitale tools in deze ontwikkeling?
 
 [Uitwerking volgt]
 
@@ -74,34 +72,33 @@
 
 ### LUK3: Begeleiden
 
-#### Van en Naar
+#### Hoe ontwikkelt de student van 'meedenken' naar 'meesturen'?
 
-**Vraag uit outline:** Van en Naar
+**Vraag uit outline:** Hoe ontwikkelt de student van 'meedenken' naar 'meesturen'?
 
-- **Van:** Ondersteunen bij verbeterprocessen (propedeuse)
-- **Naar:** (Bege)leiden in teamverband (AD-niveau)
-
-**Status:** ⏸️ Gedeeltelijk beantwoord
-
-#### Kernvraag: Hoe ontwikkelt de student van meedenken naar meesturen?
-
-**Vraag uit outline:** Hoe ontwikkelt de student van meedenken naar meesturen?
+[Uitwerking volgt]
 
 **Status:** ⏳ Nog open
 
-#### Concrete ontwikkeling
+#### Hoe verandert de rol: van ondersteuner naar (bege)leider in team?
 
-**Vraag uit outline:** Concrete ontwikkeling
-
-**Rol: van ondersteuner naar (bege)leider in team**
+**Vraag uit outline:** Hoe verandert de rol: van ondersteuner naar (bege)leider in team?
 
 [Uitwerking volgt]
 
-**Stakeholder-management: van betrekken naar verbinden van binnen en buiten de afdeling**
+**Status:** ⏳ Nog open
+
+#### Hoe ontwikkelt stakeholder-management: van betrekken naar verbinden van binnen en buiten de afdeling?
+
+**Vraag uit outline:** Hoe ontwikkelt stakeholder-management: van betrekken naar verbinden van binnen en buiten de afdeling?
 
 [Uitwerking volgt]
 
-**Waardenspanning: van bekend met meervoudige waarden naar respecteren van verschillende belangen**
+**Status:** ⏳ Nog open
+
+#### Hoe leert de student omgaan met waardenspanning: van kennen naar respecteren van verschillende belangen?
+
+**Vraag uit outline:** Hoe leert de student omgaan met waardenspanning: van kennen naar respecteren van verschillende belangen?
 
 [Uitwerking volgt]
 
@@ -109,34 +106,33 @@
 
 ### LUK4: Evalueren
 
-#### Van en Naar
+#### Hoe leert de student van 'controleren' naar 'evalueren'?
 
-**Vraag uit outline:** Van en Naar
+**Vraag uit outline:** Hoe leert de student van 'controleren' naar 'evalueren'?
 
-- **Van:** Kijken hoe het gaat (propedeuse)
-- **Naar:** Methodisch monitoren met consequentiebewustzijn (AD-niveau)
-
-**Status:** ⏸️ Gedeeltelijk beantwoord
-
-#### Kernvraag: Hoe leert de student van controleren naar evalueren?
-
-**Vraag uit outline:** Hoe leert de student van controleren naar evalueren?
+[Uitwerking volgt]
 
 **Status:** ⏳ Nog open
 
-#### Concrete ontwikkeling
+#### Hoe ontwikkelt methodisch monitoren: van ad-hoc kijken naar systematisch monitoren?
 
-**Vraag uit outline:** Concrete ontwikkeling
-
-**Van ad-hoc kijken naar methodisch monitoren**
+**Vraag uit outline:** Hoe ontwikkelt methodisch monitoren: van ad-hoc kijken naar systematisch monitoren?
 
 [Uitwerking volgt]
 
-**Van checken naar bewustzijn van gevolgen**
+**Status:** ⏳ Nog open
+
+#### Hoe groeit het consequentiebewustzijn: van checken naar bewustzijn van gevolgen?
+
+**Vraag uit outline:** Hoe groeit het consequentiebewustzijn: van checken naar bewustzijn van gevolgen?
 
 [Uitwerking volgt]
 
-**Van evalueren naar vertalen van resultaten in concrete acties**
+**Status:** ⏳ Nog open
+
+#### Hoe leert de student resultaten vertalen in concrete acties?
+
+**Vraag uit outline:** Hoe leert de student resultaten vertalen in concrete acties?
 
 [Uitwerking volgt]
 
@@ -144,42 +140,43 @@
 
 ### LUK5: Professionaliseren
 
-#### Van en Naar
-
-**Vraag uit outline:** Van en Naar
-
-- **Van:** Beeld vormen van eigen persoonlijkheid (propedeuse)
-- **Naar:** Bewust zijn van rollen en invloed in beroepspraktijk (AD-niveau)
-
-**Status:** ⏸️ Gedeeltelijk beantwoord
-
-#### Kernvraag: Wat betekent beginnende professionele identiteit?
+#### Wat betekent beginnende professionele identiteit?
 
 **Vraag uit outline:** Wat betekent beginnende professionele identiteit?
 
+[Uitwerking volgt]
+
 **Status:** ⏳ Nog open
 
-#### Concrete ontwikkeling
+#### Hoe ontwikkelt het bewustzijn: van persoonlijkheid naar vormgeven van invloed daarvan?
 
-**Vraag uit outline:** Concrete ontwikkeling
-
-**Van bewustzijn van persoonlijkheid naar vormgeven van invloed daarvan**
-
-[Uitwerking volgt]
-
-**Van feedback ontvangen naar actief ophalen en integreren**
-
-[Uitwerking volgt]
-
-**Bewustzijn van bedrijfskundige rollen: adviseur, manager, onderzoeker**
+**Vraag uit outline:** Hoe ontwikkelt het bewustzijn: van persoonlijkheid naar vormgeven van invloed daarvan?
 
 [Uitwerking volgt]
 
 **Status:** ⏳ Nog open
 
-## Integratievermogen als kerncompetentie
+#### Hoe verandert de feedbackrelatie: van ontvangen naar actief ophalen en integreren?
 
-### Wat vraagt het integreren van de vijf LUKs in de praktijk?
+**Vraag uit outline:** Hoe verandert de feedbackrelatie: van ontvangen naar actief ophalen en integreren?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+#### Hoe groeit het bewustzijn van bedrijfskundige rollen: adviseur, manager, onderzoeker?
+
+**Vraag uit outline:** Hoe groeit het bewustzijn van bedrijfskundige rollen: adviseur, manager, onderzoeker?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+## Vier kernthema's in ontwikkeling
+
+### Integratievermogen
+
+#### Wat vraagt het integreren van de vijf LUKs in de praktijk?
 
 **Vraag uit outline:** Wat vraagt het integreren van de vijf LUKs in de praktijk?
 
@@ -187,30 +184,125 @@
 
 **Status:** ⏳ Nog open
 
-### Hoe leren studenten de vier vakgebieden te verbinden?
+#### Hoe leren studenten de vier vakgebieden te verbinden (Strategie, Operations, Informatiemanagement, Organisatiegedrag)?
 
-**Vraag uit outline:** Hoe leren studenten de vier vakgebieden te verbinden?
-
-- Strategie
-- Operations
-- Informatiemanagement
-- Organisatiegedrag
+**Vraag uit outline:** Hoe leren studenten de vier vakgebieden te verbinden (Strategie, Operations, Informatiemanagement, Organisatiegedrag)?
 
 [Uitwerking volgt]
 
 **Status:** ⏳ Nog open
 
-### Van 'kennis over' naar 'kunnen integreren'
+#### Hoe ontwikkelen studenten van 'kennis over' naar 'kunnen integreren'?
 
-**Vraag uit outline:** Van 'kennis over' naar 'kunnen integreren'
+**Vraag uit outline:** Hoe ontwikkelen studenten van 'kennis over' naar 'kunnen integreren'?
 
 [Uitwerking volgt]
 
 **Status:** ⏳ Nog open
 
-## Professionele identiteitsontwikkeling
+### Onderzoekend vermogen
 
-### Wat is beginnende bedrijfskundige identiteit?
+#### Hoe ontwikkelen studenten onderzoeksvaardigheden in het C-cluster?
+
+**Vraag uit outline:** Hoe ontwikkelen studenten onderzoeksvaardigheden in het C-cluster?
+
+Healey [-@healey_linking_2005] onderscheidt vier manieren waarop onderwijs en onderzoek met elkaar verbonden kunnen worden (zie @fig-healey-nexus). In het C-cluster verschuift de onderzoeksleerlijn fundamenteel, met de nadruk op **research-oriented** onderwijs.
+
+![Healey's research-teaching nexus model [@healey_linking_2005]](../images/research-teaching.png){#fig-healey-nexus}
+
+**Verschuiving in onderzoeksbenadering:**
+
+| Propedeuse (A/B-cluster) | C-cluster (nadruk) | D-cluster |
+|--------------------------|-------------------|-----------|
+| **Research-led**: Docenten onderwijzen vakgebied, studenten leren over onderzoeksresultaten | **Research-oriented**: Studenten leren onderzoeksprocessen en kennisconstructie | **Research-based**: Studenten voeren zelf inquiry-based learning uit |
+| **Research-tutored**: Studenten bespreken en schrijven over onderzoek van anderen | Voorbereiding op research-based | **Research-based**: Volledig zelfstandig onderzoek |
+| **Studenten als audience** | **Studenten als participanten (leren)** | **Studenten als participanten (doen)** |
+
+**De nadruk op Research-oriented in het C-cluster:**
+
+Het C-cluster focust primair op **research-oriented** onderwijs: studenten leren onderzoeksprocessen en kennisconstructie begrijpen. Dit bereidt hen voor op **research-based** onderwijs in het D-cluster, waar ze volledig zelfstandig inquiry-based onderzoek uitvoeren.
+
+**Wat betekent research-oriented in de praktijk?**
+
+In research-oriented onderwijs (C-cluster) leren studenten **hoe onderzoek werkt**, zonder zelf volledig zelfstandig onderzoek uit te voeren. De focus ligt op:
+
+1. **Begrijpen hoe kennis tot stand komt**, niet alleen wat de kennis is
+2. **Onderzoeksprocessen en -methoden** leren kennen en toepassen (met begeleiding)
+3. **Kennisconstructie** observeren: hoe ontstaat wetenschappelijke kennis?
+4. **Zelf keuzes maken** in theorieën en methoden, maar binnen gestructureerde opdrachten
+5. **Reflecteren op onderzoeksprocessen**, niet alleen op uitkomsten
+
+Dit verschilt van **research-based** (D-cluster), waar studenten volledig zelfstandig inquiry-based onderzoek uitvoeren in authentieke praktijksituaties.
+
+**De rol van desk research:**
+
+Desk research in het C-cluster fungeert als voorbereiding op praktijkonderzoek in het D-cluster. Studenten leren literatuur te zoeken, te selecteren, te analyseren en te synthetiseren - essentiële vaardigheden voor de onderzoekende professional. Dit past bij research-oriented: het gaat om het begrijpen en toepassen van onderzoeksmethoden in een beschermde leeromgeving.
+
+**Status:** ⏸️ Gedeeltelijk beantwoord met Healey (2005) framework
+**Nog uit te werken:** Concrete ontwikkellijnen per type onderzoeksvaardigheid
+
+#### Welke rol speelt desk research in de voorbereiding op praktijkonderzoek?
+
+**Vraag uit outline:** Welke rol speelt desk research in de voorbereiding op praktijkonderzoek?
+
+Desk research in het C-cluster vormt de brug tussen **research-tutored** (propedeuse) en **research-based** (D-cluster) onderwijs [@healey_linking_2005]. Het is de fase waarin studenten van consumenten van onderzoek naar producenten van onderzoek evolueren.
+
+**Functie van desk research als voorbereiding:**
+
+1. **Literatuurvaardigheden ontwikkelen**: Zoeken, selecteren en beoordelen van wetenschappelijke bronnen
+2. **Theoretische onderbouwing**: Leren relevante theorieën te selecteren voor bedrijfskundige vraagstukken
+3. **Methodische voorbereiding**: Begrijpen hoe onderzoek wordt opgezet en uitgevoerd
+4. **Kritisch lezen**: Onderzoeksresultaten van anderen analyseren en beoordelen
+5. **Synthetiseren**: Meerdere bronnen integreren tot een samenhangend geheel
+
+**Van desk research naar praktijkonderzoek:**
+
+In het C-cluster leren studenten desk research uit te voeren binnen een veilige, begeleide omgeving. Deze vaardigheden worden in het D-cluster toegepast in authentieke praktijksituaties, waar desk research onderdeel wordt van een groter praktijkonderzoek met echte stakeholders en consequenties.
+
+**De overgang:**
+
+- **C-cluster**: Desk research als doel op zich - studenten oefenen met onderzoekend literatuurgebruik
+- **D-cluster**: Desk research als middel - literatuur dient om praktijkvraagstukken te analyseren en oplossingen te onderbouwen
+
+**Status:** ✅ Beantwoord met Healey (2005) framework
+
+#### Hoe leren studenten bedrijfskundige paradigma's te verbinden met wetenschappelijke methoden?
+
+**Vraag uit outline:** Hoe leren studenten bedrijfskundige paradigma's (zoals Lean, Agile, e.a.) te verbinden met wetenschappelijke methoden?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Zelfstandigheid
+
+#### Hoe ontwikkelt de zelfstandigheid van studenten in het C-cluster?
+
+**Vraag uit outline:** Hoe ontwikkelt de zelfstandigheid van studenten in het C-cluster?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+#### Wanneer bieden we structuur, wanneer laten we los?
+
+**Vraag uit outline:** Wanneer bieden we structuur, wanneer laten we los?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+#### Hoe leren studenten theoretische keuzes zelfstandig te onderbouwen?
+
+**Vraag uit outline:** Hoe leren studenten theoretische keuzes zelfstandig te onderbouwen?
+
+[Uitwerking volgt]
+
+**Status:** ⏳ Nog open
+
+### Professionele identiteit
+
+#### Wat is beginnende bedrijfskundige identiteit?
 
 **Vraag uit outline:** Wat is beginnende bedrijfskundige identiteit?
 
@@ -218,17 +310,17 @@
 
 **Status:** ⏳ Nog open
 
-### Bewustzijn van rollen: wanneer ben je adviseur, manager of onderzoeker?
+#### Hoe groeit het bewustzijn van rollen: wanneer ben je adviseur, manager of onderzoeker?
 
-**Vraag uit outline:** Bewustzijn van rollen: wanneer ben je adviseur, manager of onderzoeker?
+**Vraag uit outline:** Hoe groeit het bewustzijn van rollen: wanneer ben je adviseur, manager of onderzoeker?
 
 [Uitwerking volgt]
 
 **Status:** ⏳ Nog open
 
-### Het moreel kompas in ontwikkeling: van kennen naar toepassen
+#### Hoe ontwikkelt het moreel kompas: van kennen naar toepassen?
 
-**Vraag uit outline:** Het moreel kompas in ontwikkeling: van kennen naar toepassen
+**Vraag uit outline:** Hoe ontwikkelt het moreel kompas: van kennen naar toepassen?
 
 [Uitwerking volgt]
 

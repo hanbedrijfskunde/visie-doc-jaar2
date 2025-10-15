@@ -63,7 +63,45 @@ When working on vision documents:
 1. Consider the progression from propedeuse → AD-niveau → Bachelor-niveau
 2. Maintain focus on the WHY (contribution to professional development) and HOW (design principles)
 3. Ensure alignment with the 5 learning outcomes (LUKs)
-4. Consider practical implementation aspects (teaching methods, assessment, internship structure)
+4. **STAY AT VISION LEVEL - avoid concrete implementation details (see "WHY/HOW vs WHAT" section below)**
+
+### WHY/HOW vs WHAT: Critical Distinction
+
+**This is a VISION document (WHY and HOW), NOT an implementation plan (WHAT).**
+
+**✅ DO include (WHY - Function & Purpose):**
+- **Why** the C- and D-clusters exist within the overall program
+- **Function** of each cluster in student development
+- **Contribution** to professional formation
+- **Rationale** for design choices
+- **Theoretical frameworks** that underpin the vision (e.g., Healey's nexus, MECE framework, AI Thinking)
+
+**✅ DO include (HOW - Design Principles & Quality Criteria):**
+- **Ontwerpprincipes** (design principles): e.g., "authenticity," "co-creation," "scaffolding"
+- **Kwaliteitscriteria** (quality criteria): what makes learning effective at this level
+- **Pedagogical approaches** at principle level: e.g., "research-based learning," "peer learning," "critical AI literacy"
+- **Frameworks and models** that guide design: e.g., learnersourcing as a pedagogical concept, AI-enhanced assessment as a principle
+- **Theoretical underpinning**: citations to research that supports design decisions
+
+**❌ DO NOT include (WHAT - Concrete Implementation):**
+- ❌ **Concrete werkvormen** (specific teaching methods): "intervisie," "workshops," "presentaties," "case-uitwisseling"
+- ❌ **Specific tools and platforms**: "Platform voor kennisdeling," "RIPPLE tool stappen 1-5"
+- ❌ **Detailed activity lists**: "Concrete invulling studiedag: onderzoeksbegeleiding, reflectiesessies, workshops..."
+- ❌ **Step-by-step method descriptions**: How exactly RIPPLE works in 5 steps
+- ❌ **Specific examples per LUK**: "LUK1: AI voor data-analyse, LUK2: AI voor procesoptimalisatie..."
+- ❌ **"Mogelijke vormen van..."** followed by bulleted lists of concrete activities
+- ❌ **Implementation details**: What specific assignments, tools, or activities will be used
+
+**Examples:**
+
+| ❌ WHAT (Implementation) | ✅ WHY/HOW (Vision) |
+|--------------------------|---------------------|
+| "Concrete werkvormen: 1. Intervisie, 2. Presentaties, 3. Workshops..." | "De studiedag faciliteert peer learning en learnersourcing, waarbij studenten actief kennis delen en van elkaar leren." |
+| "Mogelijke vormen van learnersourcing: samenvattingen, case studies, vraagbanken..." | "Learnersourcing als pedagogisch principe: studenten dragen bij aan het creëren van leermateriaal [@singh_learnersourcing_2022]." |
+| "RIPPLE-model: 1. Training, 2. Rubric, 3. Review, 4. Quality pools, 5. Personalized content" | "AI-enhanced peer assessment combineert peer learning met AI-ondersteuning voor schaalbaarheid en kwaliteit [@topping_enhancing_2025]." |
+| "LUK1: AI voor data-analyse, LUK2: AI voor procesoptimalisatie..." | "Critical AI Literacy als kerncompetentie doorheen alle LUKs [@tiernan_information_2023; @newman-griffis_ai_2025]." |
+
+**When in doubt:** Ask "Is this a principle/criterion (HOW) or a specific implementation (WHAT)?" If it's WHAT, it belongs in Chapter 8 (Implementatie), not in the vision chapters.
 
 ## Content Creation Protocol
 

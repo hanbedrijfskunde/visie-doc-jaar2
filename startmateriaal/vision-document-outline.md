@@ -28,112 +28,155 @@
 - LUK1-5 als complete cyclus: analyseren → ontwerpen → begeleiden → evalueren → professionaliseren
 - Van gefragmenteerd naar integraal: het samenspel tussen de leeruitkomsten
 
+**1.3 De unieke positie van leerjaar 2**
+- Wat is de positie tussen propedeuse en AD/bachelor?
+- Hoe verschilt de functie voor bachelor-doorstromers (brug naar verdieping en specialisatie) versus AD-afstudeerders (afronding met praktijkgerichtheid)?
+- Wat maakt de combinatie van C-cluster en D-cluster binnen één leerjaar onderscheidend?
+
 ---
 
 ### 2. C-cluster: Transitie van Uitvoeren naar Ontwerpen
 
-**2.1 Ontwikkelingslogica per leeruitkomst**
+**2.1 De bedrijfskundige handelingscyclus: ontwikkeling per leeruitkomst**
 
 #### LUK1: Analyseren en diagnosticeren
-- **Van** gestructureerde diagnose met gegeven model (propedeuse)
-- **Naar** zelfstandig signaleren van knelpunten met zelf te selecteren theorieën (AD-niveau)
-- **Kernvraag**: Hoe ontwikkelt de student van 'toepassen' naar 'selecteren'?
-- **Concrete ontwikkeling**:
-  - Stakeholder-bewustzijn: van vooral intern naar intern én extern
-  - Theoretische onderbouwing: van aangereikte modellen naar zelf selecteren relevante theorieën
-  - Complexiteit: van eenvoudige naar eenvoudige bedrijfskundige vraagstukken met meer variabelen
+- Hoe ontwikkelt de student van 'toepassen van gegeven model' (propedeuse) naar 'selecteren van relevante theorieën' (AD-niveau)?
+- Hoe groeit het stakeholder-bewustzijn van vooral intern naar intern én extern?
+- Hoe neemt de complexiteit van vraagstukken toe: van eenvoudig naar meer variabelen?
+- Hoe ontwikkelt de theoretische onderbouwing: van aangereikte modellen naar zelf selecteren?
 
 #### LUK2: (Her)ontwerpen
-- **Van** verbetervoorstel voor eenvoudig proces (propedeuse)
-- **Naar** strategisch passend ontwerp op tactisch/operationeel niveau (AD-niveau)
-- **Kernvraag**: Hoe leert de student de verbinding tussen operatie en strategie te maken?
-- **Concrete ontwikkeling**:
-  - Systeem-bewustzijn: van bewust van impact naar bewust van invloed op andere organisatieonderdelen
-  - Waardencreatie: van enkele waarde naar meervoudige waarden
-  - Procesmining en digitale tools als nieuwe competentie
+- Hoe leert de student de verbinding tussen operatie en strategie te maken?
+- Hoe ontwikkelt het systeem-bewustzijn: van impact naar invloed op andere organisatieonderdelen?
+- Hoe groeit het bewustzijn van waardencreatie: van enkele waarde naar meervoudige waarden?
+- Welke rol spelen procesmining en digitale tools in deze ontwikkeling?
 
 #### LUK3: Begeleiden
-- **Van** ondersteunen bij verbeterprocessen (propedeuse)
-- **Naar** (bege)leiden in teamverband (AD-niveau)
-- **Kernvraag**: Hoe ontwikkelt de student van meedenken naar meesturen?
-- **Concrete ontwikkeling**:
-  - Rol: van ondersteuner naar (bege)leider in team
-  - Stakeholder-management: van betrekken naar verbinden van binnen en buiten de afdeling
-  - Waardenspanning: van bekend met meervoudige waarden naar respecteren van verschillende belangen
+- Hoe ontwikkelt de student van 'meedenken' naar 'meesturen'?
+- Hoe verandert de rol: van ondersteuner naar (bege)leider in team?
+- Hoe ontwikkelt stakeholder-management: van betrekken naar verbinden van binnen en buiten de afdeling?
+- Hoe leert de student omgaan met waardenspanning: van kennen naar respecteren van verschillende belangen?
 
 #### LUK4: Evalueren
-- **Van** kijken hoe het gaat (propedeuse)
-- **Naar** methodisch monitoren met consequentiebewustzijn (AD-niveau)
-- **Kernvraag**: Hoe leert de student van controleren naar evalueren?
-- **Concrete ontwikkeling**:
-  - Van ad-hoc kijken naar methodisch monitoren
-  - Van checken naar bewustzijn van gevolgen
-  - Van evalueren naar vertalen van resultaten in concrete acties
+- Hoe leert de student van 'controleren' naar 'evalueren'?
+- Hoe ontwikkelt methodisch monitoren: van ad-hoc kijken naar systematisch monitoren?
+- Hoe groeit het consequentiebewustzijn: van checken naar bewustzijn van gevolgen?
+- Hoe leert de student resultaten vertalen in concrete acties?
 
 #### LUK5: Professionaliseren
-- **Van** beeld vormen van eigen persoonlijkheid (propedeuse)
-- **Naar** bewust zijn van rollen en invloed in beroepspraktijk (AD-niveau)
-- **Kernvraag**: Wat betekent beginnende professionele identiteit?
-- **Concrete ontwikkeling**:
-  - Van bewustzijn van persoonlijkheid naar vormgeven van invloed daarvan
-  - Van feedback ontvangen naar actief ophalen en integreren
-  - Bewustzijn van bedrijfskundige rollen: adviseur, manager, onderzoeker
+- Wat betekent beginnende professionele identiteit?
+- Hoe ontwikkelt het bewustzijn: van persoonlijkheid naar vormgeven van invloed daarvan?
+- Hoe verandert de feedbackrelatie: van ontvangen naar actief ophalen en integreren?
+- Hoe groeit het bewustzijn van bedrijfskundige rollen: adviseur, manager, onderzoeker?
 
-**2.2 Integratievermogen als kerncompetentie**
+**2.2 Vier kernthema's in ontwikkeling**
+
+#### Integratievermogen
 - Wat vraagt het integreren van de vijf LUKs in de praktijk?
-- Hoe leren studenten de vier vakgebieden te verbinden?
-  - Strategie
-  - Operations
-  - Informatiemanagement
-  - Organisatiegedrag
-- Van 'kennis over' naar 'kunnen integreren'
+- Hoe leren studenten de vier vakgebieden te verbinden (Strategie, Operations, Informatiemanagement, Organisatiegedrag)?
+- Hoe ontwikkelen studenten van 'kennis over' naar 'kunnen integreren'?
 
-**2.3 Professionele identiteitsontwikkeling**
+#### Onderzoekend vermogen
+- Hoe ontwikkelen studenten onderzoeksvaardigheden in het C-cluster?
+- Welke rol speelt desk research in de voorbereiding op praktijkonderzoek?
+- Hoe leren studenten bedrijfskundige paradigma's (zoals Lean, Agile, e.a.) te verbinden met wetenschappelijke methoden?
+
+#### Zelfstandigheid
+- Hoe ontwikkelt de zelfstandigheid van studenten in het C-cluster?
+- Wanneer bieden we structuur, wanneer laten we los?
+- Hoe leren studenten theoretische keuzes zelfstandig te onderbouwen?
+
+#### Professionele identiteit
 - Wat is beginnende bedrijfskundige identiteit?
-- Bewustzijn van rollen: wanneer ben je adviseur, manager of onderzoeker?
-- Het moreel kompas in ontwikkeling: van kennen naar toepassen
+- Hoe groeit het bewustzijn van rollen: wanneer ben je adviseur, manager of onderzoeker?
+- Hoe ontwikkelt het moreel kompas: van kennen naar toepassen?
 
 ---
 
 ### 3. D-cluster: Toepassing in Authentieke Praktijk
 
-**3.1 Van beschermde leeromgeving naar bedrijfspraktijk**
-- Welke competenties uit C-cluster worden het meest op de proef gesteld?
+**3.1 De bedrijfskundige handelingscyclus in de praktijk**
+
+#### Toepassing van LUK1-5 in stageopdrachten
+- Hoe worden de vijf leeruitkomsten geïntegreerd toegepast in de stagepraktijk?
+- Welke competenties uit het C-cluster worden het meest op de proef gesteld?
 - Wat is het verschil tussen 'oefenen in onderwijs' en 'toepassen in praktijk'?
-- Wat kan een student op dit niveau (nog) niet? (Realistische verwachtingen)
 
-**3.2 De onderzoekende bedrijfskundige**
+#### Realistische verwachtingen
+- Wat kan een student op dit niveau (nog) niet?
+- Welk niveau van complexiteit is passend tussen propedeuse en AD?
+- Hoe voorkomen we onder- en overbelasting?
+
+**3.2 Vier kernthema's in de praktijk**
+
+#### Integratievermogen in authentieke context
+- Hoe passen studenten de integratie van LUKs en vakgebieden toe onder complexe, authentieke omstandigheden?
+- Welke rol speelt de organisatiecontext in het verbinden van verschillende domeinen?
+- Hoe gaan studenten om met tegenstrijdige belangen en prioriteiten in de praktijk?
+
+#### Onderzoekend vermogen in de stagedpraktijk
 - Wat betekent onderzoekend in de praktijk staan op dit niveau?
-- De balans tussen 'meedoen' en 'onderzoeken'
-- Aansluiting bij de bedrijfskundige handelingscyclus: praktijkonderzoek als integraal onderdeel
+- Wat is de balans tussen 'meedoen' en 'onderzoeken' (70-30? 60-40?)?
+- Hoe wordt praktijkonderzoek integraal onderdeel van de bedrijfskundige handelingscyclus?
+- Welk niveau van methodische diepgang is realistisch (zonder AD-diepgang te verwachten)?
 
-**3.3 Zelfstandigheid en oordeelsvorming**
-- De stap in zelfsturing: van begeleide opdrachten naar eigen verantwoordelijkheid
-- Professioneel oordeel in complexe situaties ontwikkelen
-- Het moreel kompas in authentieke dilemma's
+#### Zelfstandigheid in de beroepspraktijk
+- Hoe maakt de student de stap van begeleide opdrachten naar eigen verantwoordelijkheid?
+- Hoe ontwikkelt professioneel oordeel in complexe situaties?
+- Hoe past de student het moreel kompas toe in authentieke dilemma's?
+- Welke ondersteuning is nodig bij deze toegenomen zelfstandigheid?
 
-**3.4 Verdieping van professionele identiteit**
-- Ervaren van bedrijfskundige rollen in de praktijk
-- Van 'beeld vormen' naar 'ervaren en reflecteren'
-- Feedback uit de praktijk als katalysator voor ontwikkeling
+#### Professionele identiteit door praktijkervaring
+- Hoe ervaren studenten bedrijfskundige rollen (adviseur, manager, onderzoeker) in de praktijk?
+- Hoe verloopt de transitie van 'beeld vormen' naar 'ervaren en reflecteren'?
+- Welke rol speelt feedback uit de praktijk als katalysator voor ontwikkeling?
+- Hoe verdiept de praktijkervaring het professioneel zelfbeeld?
+
+**3.3 De unieke context van het D-cluster**
+- Wat zijn de specifieke kenmerken van stage als leeromgeving?
+- Hoe functioneert de driehoek student-stagebedrijf-opleiding?
+- Welke rol speelt de studiedag in het verbinden van praktijk en theorie?
 
 ---
 
 ### 4. Samenhang C→D: Twee Clusters, Één Ontwikkeltraject
 
-**4.1 De brugfunctie van C naar D**
-- Welke competenties uit C worden expliciet toegepast in D?
-- Hoe wordt transfer van geleerd gedrag gefaciliteerd?
-- De rol van reflectie in het zichtbaar maken van ontwikkeling
+**4.1 Transfer van ontwikkeling: van beschermde omgeving naar praktijk**
 
-**4.2 De unieke bijdrage van leerjaar 2**
-- Positie tussen propedeuse en AD/bachelor
-- Voor bachelor-studenten: brug naar verdieping en specialisatie
-- Voor AD-studenten: afronding met praktijkgerichtheid
+#### De vier kernthema's in transitie
+- Hoe wordt integratievermogen overgedragen van oefencases naar authentieke organisatievraagstukken?
+- Hoe evolueert onderzoekend vermogen van desk research naar embedded praktijkonderzoek?
+- Hoe ontwikkelt zelfstandigheid van begeleiding naar eigen verantwoordelijkheid?
+- Hoe groeit professionele identiteit van bewustwording naar vormgeving in de praktijk?
 
-**4.3 Ontwikkelingslogica samengevat**
-- Visualisatie van de progressielijn per LUK
-- De rode draad: van uitvoeren → ontwerpen → toepassen
+#### Transfer faciliteren
+- Welke voorbereidende activiteiten in het C-cluster faciliteren transfer naar het D-cluster?
+- Hoe wordt transfer van geleerd gedrag expliciet gemaakt en ondersteund?
+- Welke rol speelt reflectie als brug tussen C en D?
+
+**4.2 De ontwikkelingslogica samengevat**
+
+#### De doorlopende leerlijn
+- Hoe verloopt de progressie: uitvoeren (propedeuse) → ontwerpen (C-cluster) → toepassen (D-cluster) → verdiepen (AD/bachelor)?
+- Wat is de visualisatie van de ontwikkeling per LUK over deze leerlijn?
+- Wat maakt de combinatie C+D krachtiger dan de losse onderdelen?
+
+**4.3 Differentiatie naar studieroute**
+
+#### Bachelor-doorstromers
+- Hoe bereidt leerjaar 2 voor op specialisatie en verdieping in jaar 3?
+- Welke brede basis is nodig voor de bachelor-fase?
+- Wat zijn de specifieke leerdoelen voor deze groep?
+
+#### AD-afstudeerders
+- Hoe functioneert leerjaar 2 als afrondende fase met praktijkgerichtheid?
+- Welke afstudeercompetenties moeten worden bereikt?
+- Wat zijn de specifieke eindtermen voor deze groep?
+
+#### Gemeenschappelijke basis en gedifferentieerde uitwerking
+- Wat is de gemeenschappelijke leerbasis voor beide groepen?
+- Waar en hoe vindt differentiatie plaats?
+- Hoe borgen we kwaliteit voor beide routes zonder inefficiëntie?
 
 ---
 

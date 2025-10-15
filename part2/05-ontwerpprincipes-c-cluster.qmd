@@ -40,37 +40,125 @@ Welke ondersteuning in welke fase?
 
 #### Voorkomen van 'vakjes afvinken'
 
-[Uitwerking volgt]
+**Ontwerpprincipe: Het integrale systeem**
+
+Het C-cluster moet voorkomen dat studenten leren als een verzameling van losse vakken die afgevinkt moeten worden. In plaats daarvan moet de leeromgeving studenten uitdagen om **verbanden te zien** tussen kennisdomeinen en competenties.
+
+**Kernprincipe uit kwaliteitssysteem:**
+
+> "De vijf criteria zijn niet los van elkaar te realiseren; ze vormen een coherent geheel. Sterker nog: hun onderlinge wisselwerking en afstemming creëert de eigenlijke onderwijskwaliteit."
+
+**Waarom integratie essentieel is:**
+
+- **Bedrijfskundige vraagstukken zijn nooit enkelvakdig**: Strategie raakt aan operations, informatiemanagement en organisatiegedrag
+- **Hogere-orde cognitie vereist integratie**: Analyseren, evalueren en creëren (Bloom) vragen om synthese van kennis
+- **Professionele identiteit ontstaat uit verbindend vermogen**: De bedrijfskundige professional verbindt kennisdomeinen
+
+**Status:** ✅ Beantwoord met kwaliteitssysteem (Het integrale systeem)
 
 #### Rol van overkoepelende opdrachten
 
-Versus afzonderlijke vakken
+**Ontwerpprincipe: Authentieke, interdisciplinaire vraagstukken**
 
-[Uitwerking volgt]
+Overkoepelende opdrachten zijn het voertuig voor integratie. Ze dwingen studenten om kennis uit verschillende vakgebieden te combineren en toe te passen op realistische bedrijfskundige vraagstukken.
+
+**Verbinding met Criterium 3 (Authenticiteit en interdisciplinariteit):**
+
+- **Authentieke opdrachten**: Reflecteren complexiteit van echte organisaties
+- **Interdisciplinariteit**: Vereisen kennis uit meerdere domeinen (Strategie, Operations, Informatiemanagement, Organisatiegedrag)
+- **Systeemdenken**: Studenten leren organisaties als systemen te zien waarin alles met alles samenhangt
+
+**Versus afzonderlijke vakken**: Vakken blijven noodzakelijk voor kennisopbouw, maar alleen in combinatie met integratieve opdrachten ontwikkelen studenten het vermogen om kennis te verbinden.
+
+**Status:** ✅ Beantwoord met Criterium 3 (Authenticiteit en interdisciplinariteit)
 
 #### Didactische werkvormen die integratie faciliteren
 
-[Uitwerking volgt]
+**Concrete werkvormen:**
+
+- **Bedrijfscases die meerdere domeinen raken**: Strategische vraagstukken met operationele, IT- en HR-dimensies
+- **Projectonderwijs**: Langlopende opdrachten waarin verschillende vakken samenkomen
+- **Reflectie op dwarsverbanden**: Studenten expliciet laten benoemen welke kennisdomeinen ze hebben geïntegreerd
+- **Co-creatie**: Studenten leren van en met medestudenten uit verschillende specialisaties
+
+Deze werkvormen sluiten aan bij Criterium 2 (Co-creatief leerecosysteem): integratie ontstaat door samen te leren en kennis te delen.
+
+**Status:** ✅ Beantwoord met kwaliteitssysteem (werkvormen uit Criterium 2 en 3)
 
 ## Integratie van vakgebieden
 
 ### De vier domeinen verbinden
 
+**Ontwerpprincipe: Authentieke interdisciplinariteit**
+
+De vier bedrijfskundige domeinen (Strategie, Operations, Informatiemanagement, Organisatiegedrag) zijn in de praktijk altijd verweven. Het C-cluster moet studenten leren deze verbindingen te zien en te benutten.
+
+**Verbinding met Criterium 3 (Authenticiteit en interdisciplinariteit):**
+
+> "Authentieke vraagstukken dwingen tot interdisciplinair denken: echte organisatieproblemen respecteren geen vakgrenzen."
+
 #### Strategie ↔ Operations
 
-[Uitwerking volgt]
+**Kernverbinding**: Strategische keuzes hebben operationele consequenties; operationele uitvoering maakt of breekt de strategie.
+
+**Leerprincipe**: Studenten leren dat:
+- Strategische ambities moeten vertaald worden naar operationele processen
+- Operationele capaciteiten en beperkingen de strategische opties bepalen
+- Strategie zonder uitvoering waardeloos is; uitvoering zonder strategie zinloos
+
+**Concrete toepassing in C-cluster**: Cases waarin studenten een strategische doelstelling moeten vertalen naar procesontwerp, of waarin operationele problemen strategische herijking vereisen.
+
+**Status:** ✅ Beantwoord met Criterium 3 (interdisciplinariteit)
 
 #### Informatiemanagement ↔ Organisatiegedrag
 
-[Uitwerking volgt]
+**Kernverbinding**: IT-systemen beïnvloeden menselijk gedrag; organisatiecultuur bepaalt het succes van IT-implementaties.
+
+**Leerprincipe**: Studenten leren dat:
+- Technologische oplossingen alleen werken als mensen ze accepteren en gebruiken
+- Organisatieverandering vereist aandacht voor zowel systemen als mensen
+- Data-gedreven besluitvorming vraagt om digitale én sociale competenties
+
+**Concrete toepassing in C-cluster**: Cases waarin studenten een IT-implementatie moeten ontwerpen met oog voor change management, of waarin gedragsproblemen technologisch ondersteund moeten worden.
+
+**Status:** ✅ Beantwoord met Criterium 3 (interdisciplinariteit)
 
 ### Praktijkcases als integratievehikel
 
-[Uitwerking volgt]
+**Ontwerpprincipe: Authentieke complexiteit**
+
+Praktijkcases zijn het belangrijkste didactische instrument om integratie te realiseren. Ze dwingen studenten om alle vier domeinen tegelijk te mobiliseren.
+
+**Kenmerken van integratieve cases:**
+
+- **Realistisch**: Gebaseerd op echte organisaties en vraagstukken
+- **Complex**: Vereisen kennis uit meerdere domeinen
+- **Open**: Geen eenduidige oplossing, meerdere perspectieven mogelijk
+- **Actueel**: Hedendaagse thema's (AI, duurzaamheid, geopolitiek)
+
+**Verbinding met kwaliteitssysteem:**
+- Criterium 3 (Authenticiteit): Cases reflecteren echte praktijk
+- Criterium 1 (Hoger-orde cognitie): Analyseren, evalueren, creëren vereisen integratie
+
+**Status:** ✅ Beantwoord met Criterium 3 (Authenticiteit)
 
 ### Rol van interdisciplinaire teams
 
-[Uitwerking volgt]
+**Ontwerpprincipe: Diversiteit als leermiddel**
+
+Wanneer studenten in teams werken met verschillende achtergronden of specialisaties, ontstaat natuurlijke integratie door uitwisseling van perspectieven.
+
+**Verbinding met Criterium 2 (Co-creatief leerecosysteem):**
+
+Studenten leren van en met elkaar door:
+- **Kennisuitwisseling**: Studenten met verschillende sterktes vullen elkaar aan
+- **Perspectiefdiversiteit**: Verschillende invalshoeken verrijken de analyse
+- **Peer teaching**: Het uitleggen van eigen domein verdiept begrip
+- **Gedeelde verantwoordelijkheid**: Team moet integraal antwoord formuleren
+
+**Voorwaarde**: Teamopdrachten moeten zo ontworpen zijn dat ze daadwerkelijk integratie vereisen, niet alleen taakverdeling.
+
+**Status:** ✅ Beantwoord met Criterium 2 (Co-creatief leerecosysteem) en Criterium 3 (Interdisciplinariteit)
 
 ## Actualisering en relevantie
 
@@ -78,7 +166,32 @@ Versus afzonderlijke vakken
 
 #### AI en data-analyse in bedrijfskundige processen
 
-[Uitwerking volgt]
+**Critical AI Literacy als kerncompetentie**
+
+De rol van AI in bedrijfskundige processen vraagt om **kritische AI-geletterdheid** [@tiernan_information_2023; @newman-griffis_ai_2025; @zhao_thinking_2025]. Studenten moeten niet alleen leren AI te gebruiken, maar ook kritisch te reflecteren op de implicaties ervan.
+
+**AI Thinking Framework [@newman-griffis_ai_2025]:**
+
+Vijf practice-based competenties voor AI-gebruik in context:
+
+1. **Motivating AI use**: Waarom zou je AI gebruiken voor dit bedrijfskundige vraagstuk?
+2. **Formulating AI methods**: Welke AI-methoden zijn geschikt?
+3. **Assessing available tools**: Welke AI-tools zijn beschikbaar en betrouwbaar?
+4. **Selecting appropriate data**: Welke data is geschikt en ethisch verantwoord?
+5. **Situating AI in sociotechnical context**: Hoe past AI in de organisatiecontext en wat zijn de maatschappelijke implicaties?
+
+**Kritisch denken over AI [@tiernan_information_2023]:**
+- **Transparantie**: Hoe werkt de AI? Wat zijn de onderliggende algoritmes?
+- **Bias en fairness**: Welke vooroordelen kunnen in data en algoritmes zitten?
+- **Ethische verantwoordelijkheid**: Wat zijn de consequenties van AI-beslissingen?
+- **Human-centeredness**: Blijft de mens centraal in de besluitvorming?
+
+**Interactive, inquiry-driven leren [@zhao_thinking_2025]:**
+- "Thinking like a scientist": Hypothesis testing en experimentation met AI-systemen
+- Directe observatie van AI-gedrag in verschillende contexten
+- Kritische reflectie op AI-uitkomsten
+
+Deze benadering sluit aan bij criterium 4 van het MECE framework: Developing Critical Technology & Data Literacy. Critical AI Literacy is geen op zichzelf staand onderwerp, maar verweven door alle LUKs heen: studenten leren AI-tools kritisch toe te passen bij analyseren, ontwerpen, evalueren en professionaliseren.
 
 #### Procesmining
 
@@ -102,9 +215,34 @@ Expliciet genoemd in LUK2
 
 #### Digitale vaardigheden als kerncompetentie
 
-Welke vaardigheden op dit niveau?
+**Vraag uit outline:** Welke digitale vaardigheden zijn kerncompetenties op C-cluster niveau?
 
-[Uitwerking volgt]
+**Ontwerpprincipe: Kritische technologie- en datageletterdheid**
+
+Digitale vaardigheden in het C-cluster gaan verder dan alleen technische gebruikersvaardigheden. Het gaat om **kritische geletterdheid**: studenten moeten niet alleen digitale tools kunnen gebruiken, maar ook kritisch kunnen reflecteren op hun werking, beperkingen en implicaties.
+
+**Verbinding met Criterium 4 (Kritische technologie- en datageletterdheid):**
+
+Drie niveaus van digitale competentie:
+
+1. **Operational (gebruiken)**: Studenten kunnen digitale tools effectief inzetten
+   - Procesmining-software gebruiken voor procesanalyse
+   - Data-analysetools inzetten voor diagnose
+   - Samenwerkingstools benutten voor projectwerk
+
+2. **Informational (begrijpen)**: Studenten begrijpen hoe technologie werkt
+   - Wat kan AI wel en niet?
+   - Hoe werken algoritmes en wat zijn hun beperkingen?
+   - Welke data is nodig en hoe wordt deze verwerkt?
+
+3. **Critical (evalueren)**: Studenten reflecteren kritisch op technologie-gebruik
+   - Welke ethische vragen roept dit op?
+   - Welke bias kan in data en algoritmes zitten?
+   - Wat zijn de maatschappelijke consequenties?
+
+**Kernboodschap**: In het C-cluster ligt de nadruk op niveau 2 en 3 (begrijpen en evalueren), niet alleen op niveau 1 (gebruiken). Dit sluit aan bij AD-niveau: studenten moeten technologie-keuzes kunnen onderbouwen en kritisch evalueren.
+
+**Status:** ✅ Beantwoord met Criterium 4 (Kritische technologie- en datageletterdheid)
 
 ## Didactiek passend bij de transitie
 
@@ -114,39 +252,34 @@ Welke vaardigheden op dit niveau?
 
 **Vraag uit outline:** Van directe instructie naar coaching en facilitering
 
-Het C-cluster markeert een verschuiving in hoe studenten zich verhouden tot onderzoek en kennis. Healey [-@healey_linking_2005] onderscheidt vier manieren waarop onderwijs en onderzoek met elkaar verbonden kunnen worden (zie @fig-healey-nexus).
+Het C-cluster markeert een verschuiving in hoe studenten zich verhouden tot onderzoek en kennis. Zoals beschreven in hoofdstuk 2 (zie @fig-healey-nexus), ligt de nadruk in het C-cluster op **research-oriented** onderwijs [@healey_linking_2005]: studenten leren onderzoeksprocessen en kennisconstructie begrijpen.
 
-![Healey's research-teaching nexus model [@healey_linking_2005]](../images/research-teaching.png){#fig-healey-nexus}
+**Ontwerpprincipe: Van kennisoverdracht naar onderzoekend leren**
 
-**Verschuiving in onderzoeksleerlijn tussen A/B-cluster en C/D-cluster:**
-
-| Propedeuse (A/B-cluster) | C/D-cluster |
-|--------------------------|-------------|
-| **Research-led**: Docenten onderwijzen vakgebied, studenten leren over onderzoeksresultaten | **Research-oriented**: Studenten leren onderzoeksprocessen en kennisconstructie |
-| **Research-tutored**: Studenten bespreken en schrijven over onderzoek van anderen | **Research-based**: Studenten voeren zelf inquiry-based learning uit |
-
-Deze verschuiving betekent dat studenten:
+Deze verschuiving van research-led/research-tutored (propedeuse) naar research-oriented (C-cluster) betekent dat studenten:
 
 1. **Actief participeren** in plaats van consumeren van kennis
 2. Leren **hoe** kennis tot stand komt, niet alleen **wat** de kennis is
 3. **Onderzoekend denken** toepassen op bedrijfskundige vraagstukken
 4. **Methodisch werken** met data en evidence
+5. **Onderzoeksprocessen** begrijpen binnen gestructureerde opdrachten
 
 **Didactische consequenties:**
 
 - Werkvormen die onderzoekend leren stimuleren (vraaggestuurd onderwijs)
-- Opdrachten waarbij studenten zelf keuzes maken in theorieën en methoden
+- Opdrachten waarbij studenten keuzes maken in theorieën en methoden (met begeleiding)
 - Reflectie op onderzoeksprocessen, niet alleen op uitkomsten
 - Docenten als begeleiders van onderzoeksprocessen, niet alleen als kennisoverdrachters
 
+Dit bereidt studenten voor op research-based onderwijs in het D-cluster, waar ze volledig zelfstandig inquiry-based onderzoek uitvoeren.
+
 **Status:** ✅ Beantwoord met Healey (2005) framework
-**Nog uit te werken:** Concrete voorbeelden van werkvormen en didactische scenario's
 
 #### Rol van de docent: wanneer expert, wanneer coach?
 
 **Vraag uit outline:** Rol van de docent: wanneer expert, wanneer coach?
 
-De verschuiving naar research-oriented en research-based onderwijs vraagt een andere docentrol:
+De verschuiving naar research-oriented onderwijs vraagt een andere docentrol:
 
 **Docent als expert** (minder dominant in C-cluster):
 - Bij kennisoverdracht van basis-theorieën
@@ -162,11 +295,23 @@ De verschuiving naar research-oriented en research-based onderwijs vraagt een an
 Dit sluit aan bij het Healey-framework: studenten als participanten in onderzoek, niet als audience.
 
 **Status:** ⏸️ Gedeeltelijk beantwoord
-**Nog uit te werken:** Wanneer precies welke rol? Concrete situaties en voorbeelden per LUK
+**Nog uit te werken:** Verdere theoretische onderbouwing van de balans expert/coach per ontwikkelfase
 
 #### Teamleren én individuele ontwikkeling
 
-[Uitwerking volgt]
+**Ontwerpprincipe: Co-creatie en learnersourcing**
+
+Het C-cluster biedt mogelijkheden voor **co-creatie** en **learnersourcing** [@singh_learnersourcing_2022; @khosravi_learnersourcing_2023], waarbij studenten actief bijdragen aan het creëren van leermateriaal en kennis. Dit pedagogisch principe versterkt het leren op twee manieren: de bijdragers leren door het creëren en structureren van kennis, terwijl begunstigden profiteren van peer-generated content.
+
+**Rol van AI in learnersourcing:**
+
+Human-AI partnerships [@khosravi_learnersourcing_2023] kunnen learnersourcing ondersteunen: AI helpt bij het structureren, verbeteren en kwaliteitsborgen van student-generated content, terwijl de menselijke dimensie (creativiteit, kritisch denken, contextbegrip) centraal blijft staan.
+
+**Balans tussen teamleren en individuele ontwikkeling:**
+
+Het C-cluster balanceert collectieve kennisconstructie (co-creatie, peer feedback) met individuele ontwikkeling (persoonlijke reflectie, eigen leerpaden, individuele verantwoordelijkheid). Deze dualiteit is essentieel voor de ontwikkeling van de zelfstandige professional.
+
+Deze aanpak sluit aan bij criterium 2 van het MECE framework: Cultivating a Co-Creative Learning Ecosystem.
 
 ### Authentieke praktijk in het C-cluster
 
@@ -188,11 +333,38 @@ Dit sluit aan bij het Healey-framework: studenten als participanten in onderzoek
 
 #### Ontwikkeling van propedeuse naar AD zichtbaar maken
 
-[Uitwerking volgt]
+**Ontwerpprincipe: Groeimindset en zichtbare progressie**
+
+Het beoordelen op 'tussen-niveau' (tussen propedeuse en AD) vereist expliciete aandacht voor **groei**, niet alleen voor eindniveau. Dit sluit aan bij de groeimindset [@dweck_mindset_2006] en het principe van personalisatie [@topping_enhancing_2025].
+
+**Kernprincipe uit kwaliteitssysteem:**
+
+> "Personalisatie maakt groei zichtbaar: elke student kan vorderen vanaf het eigen startpunt."
+
+**Concrete vertaling:**
+
+- **Systematische opbouw**: Van eenvoudige naar complexe denkvaardigheden (scaffolding)
+- **Nadruk op proces**: Niet alleen wat de student kan, maar hoe de student zich ontwikkelt
+- **Flow-balans**: Uitdagingen op het juiste niveau voor optimale cognitieve ontwikkeling
+- **Formatieve feedback**: Voortdurende terugkoppeling tijdens het leerproces (zie AI-enhanced peer assessment)
+
+**Status:** ✅ Beantwoord met kwaliteitscriteria 1 (Hoger-orde cognitie) en 5 (Gepersonaliseerde leertrajecten)
 
 #### Portfolio, reflectie, feedforward
 
-[Uitwerking volgt]
+**Ontwerpprincipe: Balans tussen product en proces**
+
+Assessment in het C-cluster moet recht doen aan zowel de kwaliteit van het ontwerp (product) als de ontwikkeling van competenties (proces). Dit vereist een integrale benadering waarbij beide dimensies zichtbaar worden.
+
+**Instrumenten:**
+
+- **Portfolio**: Verzameling van werk over tijd die groei zichtbaar maakt
+- **Reflectie**: Bewustwording van leerproces en ontwikkeling
+- **Feedforward**: Focus op vervolgstappen, niet alleen op wat al gedaan is
+
+Deze aanpak sluit aan bij criterium 2 (Co-creatief leerecosysteem): studenten worden actieve participanten in hun eigen beoordeling, niet passieve ontvangers van cijfers.
+
+**Status:** ✅ Beantwoord met kwaliteitssysteem (balans product-proces)
 
 ### Balans product en proces
 
@@ -212,7 +384,27 @@ Dit sluit aan bij het Healey-framework: studenten als participanten in onderzoek
 
 #### Feedbackloops tijdens het leerproces
 
-[Uitwerking volgt]
+**Ontwerpprincipe: AI-enhanced peer assessment**
+
+Formatieve feedback kan worden versterkt door **AI-enhanced peer assessment** [@topping_enhancing_2025]. Dit ontwerpprincipe combineert de voordelen van peer learning met de schaalbaarheid en consistentie van AI-ondersteuning.
+
+**Waarom AI-enhanced peer assessment?**
+
+- **Schaalbare feedback**: Studenten kunnen van meerdere peers feedback ontvangen zonder onevenredige belasting van docenten
+- **Kwaliteitsborging**: AI ondersteunt het waarborgen van feedbackkwaliteit
+- **Leereffect**: Het beoordelen van andermans werk verdiept eigen begrip (assessment as learning)
+- **Personalisatie**: AI maakt gepersonaliseerde feedback mogelijk op basis van leerniveau
+- **Directe feedback**: Real-time feedback tijdens het leerproces
+
+**Kernprincipe: Human-AI partnership**
+
+AI-enhanced peer assessment illustreert hoe AI, student wisdom en learning sciences kunnen samenwerken [@topping_enhancing_2025]. Het principe bestaat uit drie verweven activiteiten: studenten creëren leermateriaal, beoordelen elkaars werk, en oefenen met gepersonaliseerde content.
+
+**Kritische AI-geletterdheid in assessment:**
+
+Essentieel is dat studenten AI-driven feedback kritisch beoordelen op accuraatheid. De combinatie van AI-feedback en menselijke peer feedback, met transparantie over wanneer AI wordt ingezet, ontwikkelt kritisch denken over technologie-gebruik.
+
+Deze aanpak sluit aan bij criterium 5 van het MECE framework: Enabling Personalized and Adaptive Learning Pathways.
 
 #### Eindassessment dat recht doet aan groei
 
